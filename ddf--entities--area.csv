@@ -1,0 +1,906 @@
+area,name
+NGA001,Abia
+CIV001,Abidjan
+OMN003,Ad Dakhliyah
+CMR001,Adamaoua
+NGA002,Adamawa
+ETH014,Addis Ababa
+OMN006,Adh Dhahirah
+ETH002,Afar
+AFG,Afghanistan
+NER001,Agadez
+KAZ001,Akmola
+KAZ002,Aktobe
+NGA003,Akwa Ibom
+OMN004,Al Batinah
+OMN008,Al Wusta
+ALB,Albania
+DZA,Algeria
+DJI001,Ali Sabieh
+BEN_01,Alibori
+03M49WLD,All countries
+KAZ003,Almaty
+KAZ015,Almaty
+PRY010,Alto Parana
+PRY013,Amambay
+PER001,Amazonas
+ASM,American Samoa
+ETH003,Amhara
+THA002075,Amnat Charoen
+VNM008005,An Giang Province
+NGA004,Anambra
+PER002,Ancash
+AND,Andorra
+THA003001,Ang Thong
+AGO,Angola
+AIA,Anguilla
+LCA001,Anse La Raye
+MDG001,Antananarivo
+ATG,Antigua and Barbuda
+MDG007,Antsiranana
+PER003,Apurimac
+ARM001,Aragatsotn
+ARM002,Ararat
+PER004,Arequipa
+ARG,Argentina
+ARM003,Armavir
+ARM,Armenia
+HTI005,Artibonite
+ABW,Aruba
+OMN005,Ash Sharqiyat
+GHA006,Ashanti
+KAZ016,Astana City
+PRY018,Asuncion
+BEN_02,Atacora
+NIC091,Atlantico Norte
+NIC093,Atlantico Sur
+HND001,Atlantida
+BEN_03,Atlantique
+KAZ004,Atyrau
+AUS,Australia
+AUT,Austria
+UKR004,Autonomous Republic of Crimea
+PER005,Ayacucho
+MMR017,Ayeyarwady
+AZE,Azerbaijan
+VNM007017,Ba Ria - Vung Tau Pro
+VNM002021,Bac Giang Province
+MMR111,Bago
+BHS,Bahamas
+BHR,Bahrain
+MLI009,Bamako
+COD030,Bandundu
+THA0BK016,Bangkok
+BGD,Bangladesh
+KHM001,Banteay Meanchey
+BRB,Barbados
+KEN007001,Baringo
+COD020,Bas Congo
+CAF007,Bas-Oubangui
+KGZ005,Batken
+KHM002,Battambang
+NGA005,Bauchi
+NGA006,Bayelsa
+BLR,Belarus
+BEL,Belgium
+BLZ,Belize
+ETH006,Beneshangul Gumuz
+BEN,Benin
+NGA007,Benue
+LSO001,Berea
+BMU,Bermuda
+BTN,Bhutan
+VNM005007,Binh Dinh Province
+VNM007011,Binh Duong Province
+VNM007015,Binh Thuan Province
+KGZ001,Bishkek
+SDN008,Blue Nile
+SLE003001,Bo
+NIC050,Boaco
+PAN001,Bocas del Toro
+LAO005,Bokeo
+GIN003002,Boké
+BOL,Bolivia (Plurinational State of)
+SLE002001,Bombali
+KEN007002,Bomet
+SLE003002,Bonthe
+BEN_04,Borgou
+NGA008,Borno
+BIH,Bosnia and Herzegovina
+BWA,Botswana
+COG001,Bouenza
+BRA,Brazil
+VGB,British Virgin Islands
+GHA007,Brong-Ahafo
+BRN,Brunei Darussalam
+ZWE010,Bulawayo
+BGR,Bulgaria
+KEN008001,Bungoma
+THA002002,Buri Ram
+BFA,Burkina Faso
+BDI,Burundi
+KEN008002,Busia
+LSO002,Butha Buthe
+VNM008023,Ca Mau Province
+PRY005,Caaguazu
+PRY006,Caazapa
+MOZ002,Cabo Delgado
+PER006,Cajamarca
+PER007,Callao
+KHM,Cambodia
+CMR,Cameroon
+VNM008015,Can Tho City
+CAN,Canada
+PRY014,Canindeyu
+CPV,Cape Verde
+NIC075,Carazo
+LCA003,Castries
+CYM,Cayman Islands
+ZMB010,Central
+FJI001,Central
+KEN002,Central
+GHA002,Central
+PRY011,Central
+CAF,Central African Republic
+SDN006,Central Darfur
+SSD092,Central Equatoria
+LKA002,Central Province
+NPL002,Central Region
+BFA007,Centre
+CMR002,Centre
+BFA003,Centre-Est
+BFA005,Centre-Ouest
+THA003004,Chachoengsao
+TCD,Chad
+THA003009,Chai Nat
+THA002007,Chaiyaphum
+LAO016,Champasak
+830,Channel Islands
+THA003006,Chanthaburi
+UKR001,Cherkasy
+UKR002,Chernihiv
+UKR003,Chernivtsy
+THA001008,Chiang Mai
+THA001010,Chiang Rai
+CHL,Chile
+MMR004,Chin
+CHN,China
+HKG,"China, Hong Kong Special Administrative Region"
+MAC,"China, Macao Special Administrative Region"
+NIC030,Chinandega
+PAN002,Chiriqui
+HND006,Choluteca
+THA003003,Chon Buri
+NIC065,Chontales
+THA004005,Chumphon
+KGZ004,Chuy
+MOZ011,Cidade de Maputo
+KEN003,Coast
+BOL003,Cochabmaba
+BEN_05,Collines
+COL,Colombia
+PAN004,Colon
+HND002,Colon
+HND003,Comayagua
+COM,Comoros
+GIN001001,Conakry
+PRY001,Concepcion
+COG,Congo
+COK,Cook Islands
+HND004,Copan
+ZMB020,Copperbelt
+PRY003,Cordillera
+HND005,Cortes
+CRI,Costa Rica
+BEN_06,Couffo
+HRV,Croatia
+NGA009,Cross River
+CUB,Cuba
+PER008,Cusco
+COG002,Cuvette
+COG003,Cuvette Ouest
+CYP,Cyprus
+CZE,Czech Republic
+CIV,Côte d'Ivoire
+VNM005001,Da Nang Province
+VNM006005,Dak Lak Province
+SEN001,Dakar
+TZA007,Dar es Salaam
+MNG019,Darkhan-Uul
+NGA010,Delta
+PRK,Democratic People's Republic of Korea
+COD,Democratic Republic of the Congo
+DNK,Denmark
+LCA005,Dennery
+OMN002,Dhofar
+VNM003002,Dien Bien Province
+NER002,Diffa
+SEN002,Diourbel
+ETH015,Dire Dawa
+TJK001,Direct Rule Districts
+DJI,Djibouti
+DJI004,Djibouti-Ville
+UKR005,Dnipropetrovsk
+TZA001,Dodoma
+DMA,Dominica
+DOM,Dominican Republic
+UKR006,Donetsk
+VNM007013,Dong Nai Province
+VNM008003,Dong Thap Province
+BEN_07,Donga
+MNG007,Dornod
+NER003,Dosso
+TJK005,Dushanbe City
+SDN005,East Darfur
+KAZ005,East Kazakhstan
+KEN004,Eastern
+SLE001,Eastern
+GHA005,Eastern
+ZMB030,Eastern
+SSD093,Eastern Equatoria
+LKA005,Eastern Province
+NPL001,Eastern Region
+NGA011,Ebonyi
+ECU,Ecuador
+NGA012,Edo
+EGY,Egypt
+NGA013,Ekiti
+SDN015,El Gazira
+SLV,El Salvador
+KEN004001,Embu
+NGA014,Enugu
+COD040,Equateur
+GNQ,Equatorial Guinea
+ERI,Eritrea
+BFA008,Est
+CMR003,Est
+NIC025,Esteli
+EST,Estonia
+ETH,Ethiopia
+CMR004,Extreme Nord
+HND008,F Morazan
+NGA037,"FCT, Abuja"
+FRO,Faeroe Islands
+NPL005,Far-Western Region
+GIN005003,Faranah
+SEN003,Fatick
+MDG002,Fianarantsoa
+FJI,Fiji
+FIN,Finland
+FRA,France
+PYF,French Polynesia
+TJK002,GBAO
+GAB,Gabon
+ETH012,Gambella
+GMB,Gambia
+MLI001,Gao
+KEN005001,Garissa
+MOZ009,Gaza
+SDN012,Gedaref
+ARM005,Gegharkunik
+GEO,Georgia
+DEU,Germany
+GHA,Ghana
+VNM006003,Gia Lai Province
+NGA015,Gombe
+HND009,Gracias A Dios
+NIC070,Granada
+GHA003,Greater Accra
+GRC,Greece
+GRL,Greenland
+GRD,Grenada
+LCA006,Gros Islet
+PRY004,Guaira
+GUM,Guam
+GTM,Guatemala
+GIN,Guinea
+GNB,Guinea-Bissau
+GUY,Guyana
+VNM001001,Ha Noi City
+VNM004005,Ha Tinh Province
+VNM001007,Hai Duong Province
+VNM001003,Hai Phong City
+HTI,Haiti
+ZWE009,Harare
+ETH013,Harari
+BFA009,Haut-Bassins
+VNM007001,Ho Chi Minh City
+VNM003005,Hoa Binh Province
+KEN006002,Homa Bay
+HND,Honduras
+PER009,Huancavelica
+PER010,Huanuco
+HUN,Hungary
+PER011,Ica
+ISL,Iceland
+NGA016,Imo
+IND,India
+IDN,Indonesia
+MOZ008,Inhambane
+HND010,Intibuca
+IRN,Iran (Islamic Republic of)
+IRQ,Iraq
+IRL,Ireland
+TZA011,Iringa
+KEN004002,Isiolo
+HND011,Islas De Bahia
+IMN,Isle of Man
+ISR,Israel
+ITA,Italy
+PRY007,Itapua
+UKR007,Ivano-Frankivsk
+KGZ006,Jalal-Abad
+JAM,Jamaica
+JPN,Japan
+NGA017,Jigawa
+NIC010,Jinotega
+MYS001,Johor
+SSD072,Jonglei
+JOR,Jordan
+PER012,Junin
+MMR001,Kachin
+NGA018,Kaduna
+SLE001001,Kailahun
+KEN007004,Kajiado
+KEN008004,Kakamega
+THA002012,Kalasin
+SLE002002,Kambia
+THA001014,Kamphaeng Phet
+KHM003,Kampong Cham
+KHM004,Kampong Chhnang
+KHM005,Kampong Speu
+KHM006,Kampong Thom
+KHM007,Kampot
+THA003013,Kanchanaburi
+KHM008,Kandal
+GIN005004,Kankan
+NGA019,Kano
+SEN004,Kaolack
+KAZ006,Karagandy
+COD090,Kasai Occidental
+COD080,Kasai Oriental
+SDN011,Kassala
+COD070,Katanga
+NGA020,Katsina
+MMR002,Kayah
+MLI002,Kayes
+MMR003,Kayin
+KAZ,Kazakhstan
+NGA021,Kebbi
+MYS002,Kedah
+KEN007008,Keiyo-Marakwet
+MYS004,Kelantan
+SLE001002,Kenema
+KEN,Kenya
+KEN007005,Kericho
+VNM005011,Khanh Hoa Province
+UKR008,Kharkiv
+SDN001,Khartoum
+TJK003,Khatlon
+UKR009,Kherson
+UKR010,Khmel'nytskyi
+THA002011,Khon Kaen
+MNG017,Khuvsgul
+KEN002001,Kiambu
+MLI003,Kidal
+VNM008013,Kien Giang Province
+KEN003001,Kilifi
+GIN003007,Kindia
+COD010,Kinshasa
+KIR,Kiribati
+KEN002002,Kirinyaga
+UKR012,Kirovohrad
+KEN006003,Kisii
+KEN006004,Kisumu
+KEN004003,Kitui
+NGA022,Kogi
+KHM009,Koh Kong
+SLE002003,Koinadugu
+SEN005,Kolda
+SLE001003,Kono
+KAZ007,Kostanai
+ARM008,Kotaik
+COG004,Kouilou
+MLI004,Koulikoro
+THA004015,Krabi
+KHM010,Kratie
+KHM023,Krong Kep
+KHM024,Krong Pailin
+KHM018,Krong Preah Sihanou
+KWT,Kuwait
+KEN003002,Kwale
+NGA023,Kwara
+UKR011,Kyiv
+UKR026,Kyiv City
+KGZ,Kyrgyzstan
+KAZ008,Kyzyl-Orda
+UKR013,L'viv
+PER013,La Libertad
+BOL002,La Paz
+HND012,La Paz
+GIN004005,Labé
+NGA024,Lagos
+VNM003001,Lai Chau Province
+KEN007007,Laikipia
+SSD084,Lakes
+VNM006007,Lam Dong Province
+PER014,Lambayeque
+THA001018,Lampang
+THA001019,Lamphun
+KEN003003,Lamu
+VNM002009,Lang Son Province
+VNM002005,Lao Cai Province
+LAO,Lao People's Democratic Republic
+LVA,Latvia
+LBN,Lebanon
+COG005,Lekoumou
+HND013,Lempira
+NIC035,Leon
+LSO003,Leribe
+LSO,Lesotho
+LBR,Liberia
+LBY,Libya
+LIE,Liechtenstein
+COG006,Likouala
+PER015,Lima
+LTU,Lithuania
+CMR005,Littoral
+BEN_08,Littoral
+THA002020,Loei
+VNM008001,Long An Province
+THA003017,Lop BuriI
+PER016,Loreto
+ARM009,Lori
+SEN006,Louga
+LAO003,Luangnamtha
+LAO006,Luangprabang
+ZMB040,Luapula
+UKR014,Luhansk
+ZMB050,Lusaka
+UKR022,Lutsk
+LUX,Luxembourg
+KEN004005,Machakos
+MDG,Madagascar
+PER017,Madre De Dios
+NIC020,Madriz
+THA001021,Mae Hong Son
+LSO004,Mafeteng
+MMR009,Magway
+THA002022,Maha Sarakham
+MDG004,Mahajanga
+KEN004004,Makueni
+MWI,Malawi
+MYS,Malaysia
+MDV,Maldives
+MLI,Mali
+MLT,Malta
+GIN004008,Mamou
+NIC055,Managua
+MMR010,Mandalay
+KEN005002,Mandera
+KAZ009,Mangystau
+MOZ006,Manica
+ZWE001,Manicaland
+COD062,Maniema
+MOZ010,Maputo
+TZA020,Mara
+NER004,Maradi
+KEN004006,Marsabit
+MHL,Marshall Islands
+MTQ,Martinique
+NIC060,Masaya
+LSO005,Maseru
+ZWE002,Mashonaland Central
+ZWE003,Mashonaland East
+ZWE004,Mashonaland West
+ZWE008,Masvingo
+ZWE005,Matabeleland North
+ZWE006,Matabeleland South
+NIC040,Matagalpa
+SEN007,Matam
+MRT,Mauritania
+MUS,Mauritius
+TZA012,Mbeya
+MYS005,Melaka
+KEN004008,Meru
+MEX,Mexico
+LCA008,Micoud
+FSM,Micronesia (Federated States of)
+NPL004,Mid-Western Region
+ZWE007,Midlands
+KEN006006,Migori
+LSO006,Mohale's Hoek
+LSO007,Mokhotlong
+KEN003004,Mombasa
+MMR011,Mon
+MCO,Monaco
+MNG,Mongolia
+BEN_09,Mono
+MNE,Montenegro
+MSR,Montserrat
+MLI005,Mopti
+PER018,Moquegua
+MAR,Morocco
+SLE003004,Moyamba
+MOZ,Mozambique
+ZMB100,Muchinga
+THA002074,Mukdahan
+KEN002003,Murang'a
+OMN007,Musandam
+OMN001,Muscat
+TZA019,Mwanza
+MMR,Myanmar
+UKR015,Mykolayiv
+GIN002006,N Zérékoré
+KEN001001,Nairobi
+KEN001,Nairobi
+THA003030,Nakhon Nayok
+THA003031,Nakhon Pathom
+THA002032,Nakhon Phanom
+THA002025,Nakhon Ratchasima
+THA001028,Nakhon Sawan
+THA004027,Nakhon Si Thammarat
+KEN007009,Nakuru
+VNM001013,Nam Dinh Province
+NAM,Namibia
+MOZ003,Nampula
+THA001023,Nan
+KEN007010,Nandi
+THA004029,Narathiwat
+KEN007011,Narok
+KGZ002,Naryn
+NGA025,Nassarawa
+NRU,Nauru
+MMR018,Naypyitaw
+NPL,Nepal
+NLD,Netherlands
+NCL,New Caledonia
+NZL,New Zealand
+VNM004003,Nghe An Province
+NER008,Niamey
+COG007,Niari
+MOZ001,Niassa
+NIC,Nicaragua
+NER,Niger
+NGA026,Niger
+NGA,Nigeria
+NIU,Niue
+THA002073,Nong Bua Lam Phu
+THA002024,Nong Khai
+THA003026,Nonthaburi
+CMR006,Nord
+HTI003,Nord
+BFA010,Nord
+COD061,Nord Kivu
+HTI004,Nord-Est
+CMR007,Nord-Ouest
+NFK,Norfolk Island
+SDN002,North Darfur
+KEN005,North Eastern
+KAZ010,North Kazakhstan
+SDN013,North Kordofan
+LKA007,North-Central Province
+ZMB070,North-Western
+LKA006,North-Western Province
+ZMB060,Northern
+SDN017,Northern
+SLE002,Northern
+GHA008,Northern
+FJI004,Northern
+SSD082,Northern Bahr el Ghazal
+MNP,Northern Mariana Islands
+LKA004,Northern Province
+NOR,Norway
+NIC005,Nueva Segovia
+KEN006007,Nyamira
+KEN002004,Nyandarua
+KEN006,Nyanza
+KEN002005,Nyeri
+DJI005,Obock
+PSE,Occupied Palestinian Territory
+HND014,Ocotepeque
+UKR016,Odesa
+NGA027,Ogun
+HND015,Olancho
+OMN,Oman
+NGA028,Ondo
+COD050,Orientale
+MNG021,Orkhon
+ETH004,Oromiya
+KGZ007,Osh
+NGA029,Osun
+BEN_10,Oueme
+HTI001,Ouest
+CMR008,Ouest
+NGA030,Oyo
+MYS008,Pahang
+PAK,Pakistan
+PLW,Palau
+PAN012,Panama
+PAN,Panama
+PAN011,Panama Oeste
+PNG,Papua New Guinea
+PRY009,Paraguari
+PRY,Paraguay
+HND007,Paraiso
+SUR007,Paramaribo
+PER019,Pasco
+THA003045,Pathum Thani
+THA004046,Pattani
+KAZ011,Pavlodar
+MYS007,Perak
+PER,Peru
+THA004040,Phangnga
+THA004039,Phatthalung
+THA001034,Phayao
+THA001037,Phetchabun
+THA003035,Phetchaburi
+THA001036,Phichit
+PHL,Philippines
+THA001042,Phitsanulok
+KHM012,Phnom Penh
+THA001041,Phrae
+THA003044,Phranakhonsi Ayutthaya
+VNM002017,Phu Tho
+THA004038,Phuket
+PER020,Piura
+BEN_11,Plateau
+NGA031,Plateau
+BFA011,Plateau-Central
+COG008,Plateaux
+MNE016,Podgorica
+POL,Poland
+UKR017,Poltava
+COG009,Pool
+SLE002004,Port Loko
+PRT,Portugal
+THA003033,Prachin Buri
+THA003043,Prachuap Khiri Khan
+KHM013,Preah Vihear
+PRY015,Presidente Hayes
+KHM014,Prey Veng
+PRI,Puerto Rico
+SLE003003,Pujehun
+MYS009,Pulau Pinang
+PER021,Puno
+KHM015,Pursat
+LSO008,Qacha's Nek
+QAT,Qatar
+VNM002025,Quang Ninh Province
+VNM004009,Quang Tri Province
+LSO009,Quthing
+MMR012,Rakhine
+THA004048,Ranong
+THA003049,Ratchaburi
+THA003050,Rayong
+SDN010,Red Sea
+TGO004,Region De La Kara
+TGO002,Region Des Plateaux
+TGO005,Region Des Savanes
+TGO003,Region Du Centre
+TGO001,Region Maritime
+KOR,Republic of Korea
+MDA,Republic of Moldova
+KEN007,Rift Valley
+NIC085,Rio San Juan
+NIC080,Rivas
+SDN016,River Nile
+NGA032,Rivers
+UKR018,Rivne
+THA002047,Roi Et
+ROU,Romania
+RUS,Russian Federation
+RWA,Rwanda
+REU,Réunion
+ETH007,SNNPR
+THA003076,Sa Kaeo
+MYS011,Sabah
+LKA009,Sabaragamuwa
+MMR005,Sagaing
+KNA,Saint Kitts and Nevis
+SEN008,Saint Louis
+LCA,Saint Lucia
+VCT,Saint Vincent and the Grenadines
+THA002056,Sakon Nakhon
+KEN007012,Samburu
+WSM,Samoa
+THA003057,Samut Prakan
+THA003059,Samut Sakhon
+THA003061,Samut Songkhram
+SMR,San Marino
+PER022,San Martin
+PRY002,San Pedro
+COG010,Sangha
+HND016,Santa Barbara
+BOL007,Santa Cruz
+STP,Sao Tome and Principe
+THA003058,Saraburi
+MYS013,Sarawak
+THA004051,Satun
+SAU,Saudi Arabia
+LAO013,Savannakhet
+MLI006,Segou
+MYS012,Selangor
+SEN,Senegal
+SDN014,Sennar
+SRB,Serbia
+UKR027,Sevastopol
+SYC,Seychelles
+MMR222,Shan
+TZA017,Shinyanga
+ARM013,Shirak
+THA002060,Si Sa Ket
+KEN006009,Siaya
+KHM017,Siem Reap
+SLE,Sierra Leone
+MLI007,Sikasso
+THA003053,Sing Buri
+SGP,Singapore
+SVK,Slovakia
+SVN,Slovenia
+VNM008019,Soc Trang Province
+MOZ007,Sofala
+NGA033,Sokoto
+SLB,Solomon Islands
+ETH005,Somali
+SOM,Somalia
+VNM003003,Son La Province
+THA004055,Songkhla
+LCA009,Soufriere
+ZAF,South Africa
+SDN003,South Darfur
+KAZ012,South Kazakhstan
+SDN007,South Kordofan
+SSD,South Sudan
+ZMB080,Southern
+SLE003,Southern
+LKA003,Southern Province
+ESP,Spain
+LKA,Sri Lanka
+KHM019,Stoeung Treng
+CMR009,Sud
+HTI007,Sud
+COD063,Sud Kivu
+CMR010,Sud-Ouest
+SDN,Sudan
+TJK004,Sughd
+THA001054,Sukhothai
+UKR019,Sumy
+THA003052,Suphan Buri
+THA004062,Surat Thani
+THA002063,Surin
+SUR,Suriname
+KHM020,Svay Rieng
+SWZ,Swaziland
+SWE,Sweden
+CHE,Switzerland
+SYR,Syrian Arab Republic
+ARM015,Syunik
+TZA014,Tabora
+PER023,Tacna
+DJI006,Tadjourah
+NER005,Tahoua
+KEN003005,Taita Taveta
+TJK,Tajikistan
+THA001064,Tak
+KHM021,Takeo
+KGZ008,Talas
+SEN009,Tambacounda
+KEN003006,Tana River
+MMR006,Tanintharyi
+NGA034,Taraba
+ARM016,Tavush
+GEO011,Tbilisi
+MYS014,Terengganu
+UKR020,Ternopil
+MOZ005,Tete
+LSO010,Thaba Tseka
+VNM001015,Thai Binh Province
+VNM002015,Thai Nguyen Province
+THA,Thailand
+VNM004001,Thanh Hoa Province
+KEN004012,Tharaka
+GEO015,The Adjara Autonomous Republic
+MKD,The former Yugoslav Republic of Macedonia
+SEN010,Thies
+VNM004011,Thua Thien - Hue Prov
+ETH001,Tigray
+NER006,Tillaberi
+TLS,Timor-Leste
+MDG003,Toamasina
+TGO,Togo
+TKL,Tokelau
+MDG005,Toliara
+MLI008,Tombouctou
+TON,Tonga
+SLE002005,Tonkolili
+THA004066,Trang
+KEN007014,Trans Nzoia
+THA003065,Trat
+TTO,Trinidad and Tobago
+PER024,Tumbes
+TUN,Tunisia
+KEN007015,Turkana
+TUR,Turkey
+TKM,Turkmenistan
+TCA,Turks and Caicos Islands
+TUV,Tuvalu
+UNAAP,UNAIDS Region - Asia and the Pacific
+UNACAR,UNAIDS Region - Caribbean
+UNAESA,UNAIDS Region - East and Southern Africa
+UNAEECA,UNAIDS Region - Eastern Europe and Central Asia
+UNALA,UNAIDS Region - Latin America
+UNAMENA,UNAIDS Region - Middle East and North Africa
+UNASSA,UNAIDS Region - Sub-Saharan Africa
+UNAWCA,UNAIDS Region - West and Central Africa
+UNAWCENA,UNAIDS Region - Western & Central Europe and North America
+KEN007016,Uasin Gishu
+THA002067,Ubon Ratchathani
+PER025,Ucayali
+THA002068,Udon Thani
+UGA,Uganda
+UKR,Ukraine
+MNG020,Ulaanbaatar
+ARE,United Arab Emirates
+GBR,United Kingdom of Great Britain and Northern Ireland
+TZA,United Republic of Tanzania
+VIR,United States Virgin Islands
+USA,United States of America
+SSD073,Unity
+GHA009,Upper East
+SSD071,Upper Nile
+GHA010,Upper West
+URY,Uruguay
+THA001069,Uthai Thani
+THA001070,Uttaradit
+LKA008,Uva Province
+UZB,Uzbekistan
+UKR023,Uzhhorod
+HND017,Valle
+VUT,Vanuatu
+ARM017,Vayots Dzor
+VEN,Venezuela (Bolivarian Republic of)
+LAO001,Vientiane Capital
+VNM,Viet Nam
+LCA010,Vieux-fort
+KEN008007,Vihiga
+VNM008009,Vinh Long Province
+UKR021,Vinnytsia
+GHA004,Volta
+MYS003,W.P. Kuala Lumpur
+KEN005003,Wajir
+WLF,Wallis and Futuna Islands
+SSD081,Warrap
+SDN004,West Darfur
+KAZ013,West Kazakhstan
+SDN018,West Kordofan
+KEN007017,West Pokot
+ZMB090,Western
+FJI003,Western
+KEN008,Western
+GHA001,Western
+SLE004,Western Area
+SLE004001,Western Area
+SSD083,Western Bahr el Ghazal
+SSD091,Western Equatoria
+LKA001,Western Province
+NPL003,Western Region
+SDN009,White Nile
+THA004071,Yala
+MMR013,Yangon
+THA002072,Yasothon
+YEM,Yemen
+ARM018,Yerevan
+NGA035,Yobe
+HND018,Yoro
+KGZ003,Ysyk-Kol
+MOZ004,Zambezia
+ZMB,Zambia
+NGA036,Zamfara
+UKR024,Zaporizhzhia
+KAZ014,Zhambyl
+UKR025,Zhytomyr
+SEN011,Ziguinchor
+ZWE,Zimbabwe
+NER007,Zinder
+BEN_12,Zou

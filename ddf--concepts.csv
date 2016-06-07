@@ -1,0 +1,330 @@
+concept,name,concept_type,unit
+name,Name,string,
+year,Year,time,year
+area,Area,entity_domain,
+Unit,unit,string,
+laws_that_impose_compulsory_detention_for_people_who_use_drugs_reported,Laws that impose compulsory detention for people who use drugs Reported,measure,Yes/No
+laws_that_specifically_criminalise_hiv_non_disclosure_exposure_or_transmission_reported,"Laws that specifically criminalise HIV non-disclosure, exposure or transmission Reported",measure,Yes/No
+external_economic_support_to_the_poorest_households_total,External economic support to the poorest households Total,measure,Percent
+sex_workers_condom_use_females,Sex workers: Condom Use Females,measure,Percent
+laws_that_provide_for_death_penalty_for_drug_offences_reported,Laws that provide for death penalty for drug offences Reported,measure,Yes/No
+unaids_country_offices_program_data,UNAIDS Country Offices program data,measure,Yes/No
+orphans_school_attendance_all_sexes,Orphans school attendance All sexes,measure,Rate
+orphans_school_attendance_females,Orphans school attendance Females,measure,Rate
+orphans_school_attendance_males,Orphans school attendance Males,measure,Rate
+non_orphans_school_attendance_all_sexes,Non-orphans school attendance All sexes,measure,Rate
+non_orphans_school_attendance_females,Non-orphans school attendance Females,measure,Rate
+non_orphans_school_attendance_males,Non-orphans school attendance Males,measure,Rate
+laws_that_criminalise_same_sex_sexual_activities_between_consenting_adults_reported,Laws that criminalise same-sex sexual activities between consenting adults Reported,measure,Yes/No
+laws_criminalizing_any_aspect_of_sex_work_reported,Laws criminalizing any aspect of sex work Reported,measure,Yes/No
+sex_workers_condom_use_males,Sex workers: Condom Use Males,measure,Percent
+sex_workers_condom_use_below25,Sex workers: Condom Use below25,measure,Percent
+sex_workers_population_size_estimate_estimate,Sex workers: Population size estimate estimate,measure,Number
+people_who_inject_drugs_number_of_needles_per_idu_total,People who inject drugs: Number of needles per IDU Total,measure,Rate
+people_who_inject_drugs_condom_use_below25,People who inject drugs: Condom use below25,measure,Percent
+people_who_inject_drugs_condom_use_25plus,People who inject drugs: Condom use 25plus,measure,Percent
+people_who_inject_drugs_condom_use_females,People who inject drugs: Condom use Females,measure,Percent
+men_who_have_sex_with_men_population_size_estimate_estimate,Men who have sex with men: Population size estimate estimate,measure,Number
+sex_workers_population_size_estimate_lower_estimate,Sex workers: Population size estimate lower estimate,measure,Number
+sex_workers_population_size_estimate_upper_estimate,Sex workers: Population size estimate upper estimate,measure,Number
+men_who_have_sex_with_men_condom_use_25plus,Men who have sex with men: condom use 25plus,measure,Percent
+men_who_have_sex_with_men_condom_use_all_ages,Men who have sex with men: condom use All ages,measure,Percent
+men_who_have_sex_with_men_condom_use_below25,Men who have sex with men: condom use below25,measure,Percent
+sex_workers_condom_use_25plus,Sex workers: Condom Use 25plus,measure,Percent
+sex_workers_condom_use_total,Sex workers: Condom Use Total,measure,Percent
+sex_workers_condom_use_transgender,Sex workers: Condom Use Transgender,measure,Percent
+people_living_with_hiv_females_adults_15_lower_estimate,People living with HIV Females Adults (15+) lower estimate,measure,Number
+aids_orphans_0_17_estimate,AIDS Orphans 0-17 estimate,measure,Number
+sex_workers_hiv_testing_females,Sex workers: HIV testing Females,measure,Percent
+sex_workers_hiv_testing_males,Sex workers: HIV testing Males,measure,Percent
+sex_workers_hiv_testing_below25,Sex workers: HIV testing below25,measure,Percent
+sex_workers_hiv_testing_25plus,Sex workers: HIV testing 25plus,measure,Percent
+aids_related_deaths_all_ages_estimate,AIDS-related deaths All ages estimate,measure,Number
+aids_orphans_0_17_lower_estimate,AIDS Orphans 0-17 lower estimate,measure,Number
+aids_orphans_0_17_upper_estimate,AIDS Orphans 0-17 upper estimate,measure,Number
+people_who_inject_drugs_population_size_estimate_estimate,People who inject drugs: Population size estimate estimate,measure,Number
+sex_workers_hiv_testing_total,Sex workers: HIV testing Total,measure,Percent
+sex_workers_hiv_testing_transgender,Sex workers: HIV testing Transgender,measure,Percent
+sex_workers_hiv_prevalence_females,Sex workers: HIV prevalence Females,measure,Percent
+sex_workers_hiv_prevalence_males,Sex workers: HIV prevalence Males,measure,Percent
+sex_workers_hiv_prevalence_below25,Sex workers: HIV prevalence below25,measure,Percent
+sex_workers_hiv_prevalence_25plus,Sex workers: HIV prevalence 25plus,measure,Percent
+sex_workers_hiv_prevalence_total,Sex workers: HIV prevalence Total,measure,Percent
+sex_workers_hiv_prevalence_transgender,Sex workers: HIV prevalence Transgender,measure,Percent
+hiv_incidence_adults_15_49_estimate,HIV Incidence Adults (15-49) estimate,measure,Rate
+hiv_incidence_adults_15_49_lower_estimate,HIV Incidence Adults (15-49) lower estimate,measure,Rate
+hiv_incidence_adults_15_49_upper_estimate,HIV Incidence Adults (15-49) upper estimate,measure,Rate
+hiv_prevalence_adults_15_49_estimate_modelled,HIV Prevalence Adults (15-49) estimate modelled,measure,Percent
+men_who_have_sex_with_men_hiv_testing_below25,Men who have sex with men: HIV testing below25,measure,Percent
+men_who_have_sex_with_men_hiv_prevalence_25plus,Men who have sex with men: HIV prevalence 25plus,measure,Percent
+men_who_have_sex_with_men_hiv_prevalence_all_ages,Men who have sex with men: HIV prevalence All ages,measure,Percent
+men_who_have_sex_with_men_hiv_prevalence_below25,Men who have sex with men: HIV prevalence below25,measure,Percent
+men_who_have_sex_with_men_hiv_testing_25plus,Men who have sex with men: HIV testing 25plus,measure,Percent
+men_who_have_sex_with_men_hiv_testing_all_ages,Men who have sex with men: HIV testing All ages,measure,Percent
+people_who_inject_drugs_population_size_estimate_lower_estimate,People who inject drugs: Population size estimate lower estimate,measure,Number
+people_who_inject_drugs_population_size_estimate_upper_estimate,People who inject drugs: Population size estimate upper estimate,measure,Number
+sex_workers_case_definition_reported,Sex workers: case definition Reported,measure,Text
+people_who_inject_drugs_condom_use_males,People who inject drugs: Condom use Males,measure,Percent
+people_who_inject_drugs_condom_use_total,People who inject drugs: Condom use Total,measure,Percent
+people_who_inject_drugs_safe_injecting_practices_below25,People who inject drugs: Safe injecting practices below25,measure,Percent
+people_who_inject_drugs_safe_injecting_practices_25plus,People who inject drugs: Safe injecting practices 25plus,measure,Percent
+people_who_inject_drugs_safe_injecting_practices_females,People who inject drugs: Safe injecting practices Females,measure,Percent
+people_who_inject_drugs_safe_injecting_practices_males,People who inject drugs: Safe injecting practices Males,measure,Percent
+people_who_inject_drugs_safe_injecting_practices_total,People who inject drugs: Safe injecting practices Total,measure,Percent
+people_who_inject_drugs_hiv_testing_females,People who inject drugs: HIV testing Females,measure,Percent
+people_who_inject_drugs_hiv_testing_males,People who inject drugs: HIV testing Males,measure,Percent
+people_who_inject_drugs_hiv_testing_below25,People who inject drugs: HIV testing below25,measure,Percent
+men_who_have_sex_with_men_population_size_estimate_lower_estimate,Men who have sex with men: Population size estimate lower estimate,measure,Number
+men_who_have_sex_with_men_population_size_estimate_upper_estimate,Men who have sex with men: Population size estimate upper estimate,measure,Number
+people_who_inject_drugs_hiv_testing_25plus,People who inject drugs: HIV testing 25plus,measure,Percent
+people_who_inject_drugs_hiv_testing_total,People who inject drugs: HIV testing Total,measure,Percent
+people_who_inject_drugs_hiv_prevalence_females,People who inject drugs: HIV prevalence Females,measure,Percent
+people_who_inject_drugs_hiv_prevalence_males,People who inject drugs: HIV prevalence Males,measure,Percent
+people_who_inject_drugs_hiv_prevalence_below25,People who inject drugs: HIV prevalence below25,measure,Percent
+people_who_inject_drugs_hiv_prevalence_25plus,People who inject drugs: HIV prevalence 25plus,measure,Percent
+people_who_inject_drugs_hiv_prevalence_total,People who inject drugs: HIV prevalence Total,measure,Percent
+men_who_have_sex_with_men_case_definition_reported,Men who have sex with men: case definition Reported,measure,Text
+people_who_inject_drugs_case_definition_reported,People who inject drugs: Case definition Reported,measure,Text
+aids_incidence_among_injecting_drug_users_per_1_million_population_survey,AIDS incidence among injecting drug users (per 1 million population) survey,measure,Rate
+hiv_specific_restrictions_on_entry_stay_or_residence_reported,"HIV-specific restrictions on entry, stay or residence Reported",measure,Yes/No
+new_hiv_infections_among_injecting_drug_users_per_1_million_population_survey,New HIV infections among injecting drug users (per 1 million population) survey,measure,Number
+unaids_geographical_regions_program_data,UNAIDS geographical regions program data,measure,Text
+male_circumcisions_performed_all_ages,Male circumcisions performed All ages,measure,Number
+hiv_testing_in_the_general_population_males_adults_15_49,HIV testing in the general population Males Adults (15-49),measure,Percent
+hiv_testing_in_the_general_population_males_15_19,HIV testing in the general population Males 15-19,measure,Percent
+a_i_1_3_strategy_addresses_transgender_people_reported,A.I.1.3 Strategy addresses transgender people Reported,measure,Yes/No
+a_i_1_country_developed_a_national_multisectoral_strategy_reported,A.I.1 Country developed a national multisectoral strategy Reported,measure,Yes/No
+a_i_1_2_women_sector_has_earmarked_budget_reported,A.I.1.2 Women sector has earmarked budget Reported,measure,Yes/No
+a_i_1_3_strategy_addresses_stigma_and_discrimination_reported,A.I.1.3 Strategy addresses stigma and discrimination Reported,measure,Yes/No
+a_i_1_2_women_sector_included_in_strategy_reported,A.I.1.2 Women sector included in strategy Reported,measure,Yes/No
+a_i_1_3_strategy_addresses_people_who_inject_drugs_reported,A.I.1.3 Strategy addresses people who inject drugs Reported,measure,Yes/No
+a_i_1_3_strategy_addresses_gender_empowerment_and_or_equality_reported,A.I.1.3 Strategy addresses gender empowerment and/or equality Reported,measure,Yes/No
+a_i_1_3_strategy_addresses_human_rights_protection_reported,A.I.1.3 Strategy addresses human rights protection Reported,measure,Yes/No
+new_hiv_infections_children_0_14_estimate,New HIV Infections Children (0-14) estimate,measure,Number
+new_hiv_infections_children_0_14_lower_estimate,New HIV Infections Children (0-14) lower estimate,measure,Number
+new_hiv_infections_children_0_14_upper_estimate,New HIV Infections Children (0-14) upper estimate,measure,Number
+new_hiv_infections_females_adults_15_estimate,New HIV Infections Females Adults (15+) estimate,measure,Number
+new_hiv_infections_females_adults_15_lower_estimate,New HIV Infections Females Adults (15+) lower estimate,measure,Number
+aids_related_deaths_all_ages_lower_estimate,AIDS-related deaths All ages lower estimate,measure,Number
+aids_related_deaths_all_ages_upper_estimate,AIDS-related deaths All ages upper estimate,measure,Number
+aids_related_deaths_children_0_14_estimate,AIDS-related deaths Children (0-14) estimate,measure,Number
+aids_related_deaths_children_0_14_lower_estimate,AIDS-related deaths Children (0-14) lower estimate,measure,Number
+aids_related_deaths_children_0_14_upper_estimate,AIDS-related deaths Children (0-14) upper estimate,measure,Number
+aids_related_deaths_females_adults_15_estimate,AIDS-related deaths Females Adults (15+) estimate,measure,Number
+aids_related_deaths_females_adults_15_lower_estimate,AIDS-related deaths Females Adults (15+) lower estimate,measure,Number
+aids_related_deaths_females_adults_15_upper_estimate,AIDS-related deaths Females Adults (15+) upper estimate,measure,Number
+aids_related_deaths_adults_15_estimate,AIDS-related deaths Adults (15+) estimate,measure,Number
+aids_related_deaths_adults_15_lower_estimate,AIDS-related deaths Adults (15+) lower estimate,measure,Number
+aids_related_deaths_adults_15_upper_estimate,AIDS-related deaths Adults (15+) upper estimate,measure,Number
+aids_related_deaths_males_adults_15_estimate,AIDS-related deaths Males Adults (15+) estimate,measure,Number
+aids_related_deaths_males_adults_15_lower_estimate,AIDS-related deaths Males Adults (15+) lower estimate,measure,Number
+aids_related_deaths_males_adults_15_upper_estimate,AIDS-related deaths Males Adults (15+) upper estimate,measure,Number
+new_hiv_infections_females_adults_15_upper_estimate,New HIV Infections Females Adults (15+) upper estimate,measure,Number
+new_hiv_infections_males_adults_15_estimate,New HIV Infections Males Adults (15+) estimate,measure,Number
+new_hiv_infections_males_adults_15_lower_estimate,New HIV Infections Males Adults (15+) lower estimate,measure,Number
+new_hiv_infections_males_adults_15_upper_estimate,New HIV Infections Males Adults (15+) upper estimate,measure,Number
+new_hiv_infections_adults_15_estimate,New HIV Infections Adults (15+) estimate,measure,Number
+new_hiv_infections_adults_15_lower_estimate,New HIV Infections Adults (15+) lower estimate,measure,Number
+new_hiv_infections_adults_15_upper_estimate,New HIV Infections Adults (15+) upper estimate,measure,Number
+new_hiv_infections_all_ages_estimate,New HIV Infections All ages estimate,measure,Number
+new_hiv_infections_all_ages_lower_estimate,New HIV Infections All ages lower estimate,measure,Number
+new_hiv_infections_all_ages_upper_estimate,New HIV Infections All ages upper estimate,measure,Number
+a_i_2_2_reduction_of_gender_inequalities_included_in_plan_reported,A.I.2.2 Reduction of gender inequalities included in plan Reported,measure,Yes/No/NA
+a_i_2_2_reduction_of_stigma_and_discrimination_included_in_plan_reported,A.I.2.2 Reduction of stigma and discrimination included in plan Reported,measure,Yes/No/NA
+a_i_5_4_country_developed_a_plan_to_strengthen_health_systems_reported,A.I.5.4 Country developed a plan to strengthen health systems Reported,measure,Yes/No
+a_i_1_3_strategy_addresses_women_and_girls_reported,A.I.1.3 Strategy addresses women and girls Reported,measure,Yes/No
+a_i_1_3_strategy_addresses_young_people_reported,A.I.1.3 Strategy addresses young people Reported,measure,Yes/No
+a_iii_1_1_has_laws_that_protect_men_who_have_sex_with_men_reported,A.III.1.1 Has laws that protect men who have sex with men Reported,measure,Yes/No
+a_iii_1_1_has_laws_that_protect_people_who_inject_drugs_reported,A.III.1.1 Has laws that protect people who inject drugs Reported,measure,Yes/No
+a_iii_1_1_has_laws_that_protect_prison_inmates_reported,A.III.1.1 Has laws that protect prison inmates Reported,measure,Yes/No
+a_iii_1_1_has_laws_that_protect_sex_workers_reported,A.III.1.1 Has laws that protect sex workers Reported,measure,Yes/No
+a_iii_1_1_has_laws_that_protect_women_and_girls_reported,A.III.1.1 Has laws that protect women and girls Reported,measure,Yes/No
+a_iii_1_1_has_laws_that_protect_young_people_reported,A.III.1.1 Has laws that protect young people Reported,measure,Yes/No
+a_iii_2_has_laws_that_present_obstacles_to_key_populations_reported,A.III.2 Has laws that present obstacles to key populations Reported,measure,Yes/No
+a_iii_2_has_laws_that_present_obstacles_to_men_who_have_sex_with_men_reported,A.III.2 Has laws that present obstacles to men who have sex with men Reported,measure,Yes/No
+a_iii_2_has_laws_that_present_obstacles_to_people_who_inject_drugs_reported,A.III.2 Has laws that present obstacles to people who inject drugs Reported,measure,Yes/No
+a_iii_2_has_laws_that_present_obstacles_to_sex_workers_reported,A.III.2 Has laws that present obstacles to sex workers Reported,measure,Yes/No
+hiv_prevalence_adults_15_49_lower_estimate_modelled,HIV Prevalence Adults (15-49) lower estimate modelled,measure,Percent
+hiv_prevalence_adults_15_49_upper_estimate_modelled,HIV Prevalence Adults (15-49) upper estimate modelled,measure,Percent
+people_living_with_hiv_all_sexes_all_ages_estimate,People living with HIV All sexes All ages estimate,measure,Number
+a_iii_2_has_laws_that_present_obstacles_to_women_and_girls_reported,A.III.2 Has laws that present obstacles to women and girls Reported,measure,Yes/No
+a_iv_1_has_policy_strategy_to_promote_use_of_clean_needles_and_syringes_reported,A.IV.1 Has policy/strategy to promote use of clean needles and syringes Reported,measure,Yes/No
+a_iv_1_has_policy_strategy_to_promote_fight_against_violence_against_women_reported,A.IV.1 Has policy/strategy to promote fight against violence against women Reported,measure,Yes/No
+b_iii_1_1_has_laws_that_protect_people_who_inject_drugs_reported,B.III.1.1 Has laws that protect people who inject drugs Reported,measure,Yes/No
+b_iii_1_1_has_laws_that_protect_women_and_girls_reported,B.III.1.1 Has laws that protect women and girls Reported,measure,Yes/No
+b_iii_11_a_has_programmes_to_educate_concerning_rights_of_plhiv_and_key_populations_reported,B.III.11.a Has programmes to educate concerning rights of PLHIV and key populations Reported,measure,Yes/No
+b_iii_2_1_has_laws_that_present_obstacles_to_prison_inmates_reported,B.III.2.1 Has laws that present obstacles to prison inmates Reported,measure,Yes/No
+b_iii_13_has_programmes_to_reduce_stigma_and_discrimination_reported,B.III.13 Has programmes to reduce stigma and discrimination Reported,measure,Yes/No
+b_iii_2_has_laws_that_present_obstacles_to_key_populations_reported,B.III.2 Has laws that present obstacles to key populations Reported,measure,Yes/No
+b_iii_2_1_has_laws_that_present_obstacles_to_men_who_have_sex_with_men_reported,B.III.2.1 Has laws that present obstacles to men who have sex with men Reported,measure,Yes/No
+b_iii_2_1_has_laws_that_present_obstacles_to_people_who_inject_drugs_reported,B.III.2.1 Has laws that present obstacles to people who inject drugs Reported,measure,Yes/No
+b_iii_2_1_has_laws_that_present_obstacles_to_sex_workers_reported,B.III.2.1 Has laws that present obstacles to sex workers Reported,measure,Yes/No
+b_iii_2_1_has_laws_that_present_obstacles_to_women_and_girls_reported,B.III.2.1 Has laws that present obstacles to women and girls Reported,measure,Yes/No
+b_iii_2_1_has_laws_that_present_obstacles_to_young_people_reported,B.III.2.1 Has laws that present obstacles to young people Reported,measure,Yes/No
+b_iv_1_1_majority_of_people_in_need_has_access_to_harm_reduction_for_pwid_reported,B.IV.1.1 Majority of people in need has access to harm reduction for PWID Reported,measure,Rating
+b_iv_1_1_majority_of_people_in_need_has_access_to_risk_reduction_for_msm_reported,B.IV.1.1 Majority of people in need has access to risk reduction for MSM Reported,measure,Rating
+b_iv_1_1_majority_of_people_in_need_has_access_to_risk_reduction_for_sex_workers_reported,B.IV.1.1 Majority of people in need has access to risk reduction for sex workers Reported,measure,Rating
+health_facilities_provide_hiv_services_integrated_with_other_health_services_art_and_chronic_non_communicable_diseases,Health facilities provide HIV services integrated with other health services ART and chronic Non-Communicable Diseases,measure,Text
+unaids_regional_support_teams_program_data,UNAIDS Regional Support Teams program data,measure,Text
+income_status_total,Income Status Total,measure,Text
+garpr_reporting_reported,GARPR Reporting Reported,measure,Yes/No
+health_facilities_provide_hiv_services_integrated_with_other_health_services_art_and_general_outpatient_care,Health facilities provide HIV services integrated with other health services ART and general outpatient care,measure,Text
+health_facilities_provide_hiv_services_integrated_with_other_health_services_art_and_tuberculosis,Health facilities provide HIV services integrated with other health services ART and Tuberculosis,measure,Text
+health_facilities_provide_hiv_services_integrated_with_other_health_services_hiv_c_t_and_chronic_ncds,Health facilities provide HIV services integrated with other health services HIV C&T and chronic NCDs,measure,Text
+health_facilities_provide_hiv_services_integrated_with_other_health_services_hiv_c_t_and_gen_outpatient_care,Health facilities provide HIV services integrated with other health services HIV C&T and gen outpatient care,measure,Text
+health_facilities_provide_hiv_services_integrated_with_other_health_services_hiv_c_t_and_tb,Health facilities provide HIV services integrated with other health services HIV C&T and TB,measure,Text
+health_facilities_provide_hiv_services_integrated_with_other_health_services_hiv_c_t_w_sexual_rep_health,Health facilities provide HIV services integrated with other health services HIV C&T w/ Sexual & Rep Health,measure,Text
+health_facilities_provide_hiv_services_integrated_with_other_health_services_pmtct_with_antenatal_care_maternal_child_health,Health facilities provide HIV services integrated with other health services PMTCT with Antenatal Care/Maternal & Child Health,measure,Text
+ncpi_reporting_reported,NCPI Reporting Reported,measure,Yes/No
+pregnant_women_needing_arv_for_preventing_mtct_estimate,Pregnant women needing ARV for preventing MTCT estimate,measure,Number
+knowledge_about_hiv_prevention_in_young_people_all_sexes_young_people_15_24_yes_to_all_questions,Knowledge about HIV prevention in young people All sexes Young people (15-24) Yes to all questions,measure,Percent
+knowledge_about_hiv_prevention_in_young_people_males_young_people_15_24_yes_to_all_questions,Knowledge about HIV prevention in young people Males Young people (15-24) Yes to all questions,measure,Percent
+knowledge_about_hiv_prevention_in_young_people_males_15_19_yes_to_all_questions,Knowledge about HIV prevention in young people Males 15-19 Yes to all questions,measure,Percent
+pregnant_women_who_received_arv_for_preventing_mtct_program_data,Pregnant women who received ARV for preventing MTCT program data,measure,Number
+coverage_of_pregnant_women_who_receive_arv_for_preventing_mtct_estimate,Coverage of pregnant women who receive ARV for preventing MTCT estimate,measure,Percent
+pregnant_women_needing_arv_for_preventing_mtct_lower_estimate,Pregnant women needing ARV for preventing MTCT lower estimate,measure,Number
+pregnant_women_needing_arv_for_preventing_mtct_upper_estimate,Pregnant women needing ARV for preventing MTCT upper estimate,measure,Number
+knowledge_about_hiv_prevention_in_young_people_males_20_24_yes_to_all_questions,Knowledge about HIV prevention in young people Males 20-24 Yes to all questions,measure,Percent
+knowledge_about_hiv_prevention_in_young_people_females_young_people_15_24_yes_to_all_questions,Knowledge about HIV prevention in young people Females Young people (15-24) Yes to all questions,measure,Percent
+knowledge_about_hiv_prevention_in_young_people_females_15_19_yes_to_all_questions,Knowledge about HIV prevention in young people Females 15-19 Yes to all questions,measure,Percent
+knowledge_about_hiv_prevention_in_young_people_females_20_24_yes_to_all_questions,Knowledge about HIV prevention in young people Females 20-24 Yes to all questions,measure,Percent
+sex_before_the_age_of_15_all_sexes_young_people_15_24,Sex before the age of 15 All sexes Young people (15-24),measure,Percent
+sex_before_the_age_of_15_males_young_people_15_24,Sex before the age of 15 Males Young people (15-24),measure,Percent
+infections_averted_due_to_pmtct_estimate,Infections averted due to PMTCT estimate,measure,Number
+infections_averted_due_to_pmtct_lower_estimate,Infections averted due to PMTCT lower estimate,measure,Number
+coverage_of_pregnant_women_who_receive_arv_for_preventing_mtct_lower_estimate,Coverage of pregnant women who receive ARV for preventing MTCT lower estimate,measure,Percent
+coverage_of_pregnant_women_who_receive_arv_for_preventing_mtct_upper_estimate,Coverage of pregnant women who receive ARV for preventing MTCT upper estimate,measure,Percent
+infections_averted_due_to_pmtct_upper_estimate,Infections averted due to PMTCT upper estimate,measure,Number
+sex_before_the_age_of_15_males_15_19,Sex before the age of 15 Males 15-19,measure,Percent
+sex_before_the_age_of_15_males_20_24,Sex before the age of 15 Males 20-24,measure,Percent
+sex_before_the_age_of_15_females_young_people_15_24,Sex before the age of 15 Females Young people (15-24),measure,Percent
+sex_before_the_age_of_15_females_15_19,Sex before the age of 15 Females 15-19,measure,Percent
+sex_before_the_age_of_15_females_20_24,Sex before the age of 15 Females 20-24,measure,Percent
+multiple_sexual_partnerships_all_sexes_adults_15_49,Multiple sexual partnerships All sexes Adults (15-49),measure,Percent
+multiple_sexual_partnerships_males_adults_15_49,Multiple sexual partnerships Males Adults (15-49),measure,Percent
+discriminatory_attitudes_towards_people_living_with_hiv_females_15_19_no_to_question_1,Discriminatory attitudes towards people living with HIV Females 15-19 No to question 1,measure,Percent
+discriminatory_attitudes_towards_people_living_with_hiv_females_20_24_no_to_question_1,Discriminatory attitudes towards people living with HIV Females 20-24 No to question 1,measure,Percent
+discriminatory_attitudes_towards_people_living_with_hiv_females_25_49_no_to_question_1,Discriminatory attitudes towards people living with HIV Females 25-49 No to question 1,measure,Percent
+discriminatory_attitudes_towards_people_living_with_hiv_females_no_to_question_1,Discriminatory attitudes towards people living with HIV Females No to question 1,measure,Percent
+discriminatory_attitudes_towards_people_living_with_hiv_males_15_19_no_to_question_1,Discriminatory attitudes towards people living with HIV Males 15-19 No to question 1,measure,Percent
+discriminatory_attitudes_towards_people_living_with_hiv_males_20_24_no_to_question_1,Discriminatory attitudes towards people living with HIV Males 20-24 No to question 1,measure,Percent
+discriminatory_attitudes_towards_people_living_with_hiv_males_25_49_no_to_question_1,Discriminatory attitudes towards people living with HIV Males 25-49 No to question 1,measure,Percent
+discriminatory_attitudes_towards_people_living_with_hiv_males_no_to_question_1,Discriminatory attitudes towards people living with HIV Males No to question 1,measure,Percent
+discriminatory_attitudes_towards_people_living_with_hiv_total_no_to_question_1,Discriminatory attitudes towards people living with HIV Total No to question 1,measure,Percent
+co_management_of_tuberculosis_and_hiv_treatment_total,Co-management of tuberculosis and HIV treatment Total,measure,Percent
+people_living_with_hiv_under_ipt_total,People living with HIV under IPT Total,measure,Number
+multiple_sexual_partnerships_males_15_19,Multiple sexual partnerships Males 15-19,measure,Percent
+multiple_sexual_partnerships_males_20_24,Multiple sexual partnerships Males 20-24,measure,Percent
+multiple_sexual_partnerships_males_25_49,Multiple sexual partnerships Males 25-49,measure,Percent
+multiple_sexual_partnerships_females_adults_15_49,Multiple sexual partnerships Females Adults (15-49),measure,Percent
+multiple_sexual_partnerships_females_15_19,Multiple sexual partnerships Females 15-19,measure,Percent
+multiple_sexual_partnerships_females_20_24,Multiple sexual partnerships Females 20-24,measure,Percent
+multiple_sexual_partnerships_females_25_49,Multiple sexual partnerships Females 25-49,measure,Percent
+condom_use_at_last_sex_among_people_with_multiple_sexual_partnerships_all_sexes_adults_15_49,Condom use at last sex among people with multiple sexual partnerships All sexes Adults (15-49),measure,Percent
+condom_use_at_last_sex_among_people_with_multiple_sexual_partnerships_males_adults_15_49,Condom use at last sex among people with multiple sexual partnerships Males Adults (15-49),measure,Percent
+hiv_testing_in_the_general_population_all_sexes_adults_15_49,HIV testing in the general population All sexes Adults (15-49),measure,Percent
+hiv_testing_in_the_general_population_males_20_24,HIV testing in the general population Males 20-24,measure,Percent
+hiv_testing_in_the_general_population_males_25_49,HIV testing in the general population Males 25-49,measure,Percent
+condom_use_at_last_sex_among_people_with_multiple_sexual_partnerships_males_15_19,Condom use at last sex among people with multiple sexual partnerships Males 15-19,measure,Percent
+condom_use_at_last_sex_among_people_with_multiple_sexual_partnerships_males_20_24,Condom use at last sex among people with multiple sexual partnerships Males 20-24,measure,Percent
+condom_use_at_last_sex_among_people_with_multiple_sexual_partnerships_males_25_49,Condom use at last sex among people with multiple sexual partnerships Males 25-49,measure,Percent
+condom_use_at_last_sex_among_people_with_multiple_sexual_partnerships_females_adults_15_49,Condom use at last sex among people with multiple sexual partnerships Females Adults (15-49),measure,Percent
+condom_use_at_last_sex_among_people_with_multiple_sexual_partnerships_females_15_19,Condom use at last sex among people with multiple sexual partnerships Females 15-19,measure,Percent
+condom_use_at_last_sex_among_people_with_multiple_sexual_partnerships_females_20_24,Condom use at last sex among people with multiple sexual partnerships Females 20-24,measure,Percent
+condom_use_at_last_sex_among_people_with_multiple_sexual_partnerships_females_25_49,Condom use at last sex among people with multiple sexual partnerships Females 25-49,measure,Percent
+hiv_testing_in_the_general_population_females_adults_15_49,HIV testing in the general population Females Adults (15-49),measure,Percent
+hiv_testing_in_the_general_population_females_15_19,HIV testing in the general population Females 15-19,measure,Percent
+hiv_testing_in_the_general_population_females_20_24,HIV testing in the general population Females 20-24,measure,Percent
+hiv_testing_in_the_general_population_females_25_49,HIV testing in the general population Females 25-49,measure,Percent
+people_living_with_hiv_all_sexes_all_ages_lower_estimate,People living with HIV All sexes All ages lower estimate,measure,Number
+people_living_with_hiv_all_sexes_all_ages_upper_estimate,People living with HIV All sexes All ages upper estimate,measure,Number
+people_living_with_hiv_all_sexes_adults_15_estimate,People living with HIV All sexes Adults (15+) estimate,measure,Number
+people_living_with_hiv_all_sexes_adults_15_lower_estimate,People living with HIV All sexes Adults (15+) lower estimate,measure,Number
+people_living_with_hiv_all_sexes_adults_15_upper_estimate,People living with HIV All sexes Adults (15+) upper estimate,measure,Number
+people_living_with_hiv_females_adults_15_estimate,People living with HIV Females Adults (15+) estimate,measure,Number
+people_living_with_hiv_females_adults_15_upper_estimate,People living with HIV Females Adults (15+) upper estimate,measure,Number
+people_living_with_hiv_all_sexes_children_0_14_estimate,People living with HIV All sexes Children (0-14) estimate,measure,Number
+people_living_with_hiv_all_sexes_children_0_14_lower_estimate,People living with HIV All sexes Children (0-14) lower estimate,measure,Number
+people_living_with_hiv_all_sexes_children_0_14_upper_estimate,People living with HIV All sexes Children (0-14) upper estimate,measure,Number
+people_living_with_hiv_all_sexes_50_estimate,People living with HIV All sexes 50+ estimate,measure,Number
+people_living_with_hiv_all_sexes_50_lower_estimate,People living with HIV All sexes 50+ lower estimate,measure,Number
+people_living_with_hiv_all_sexes_50_upper_estimate,People living with HIV All sexes 50+ upper estimate,measure,Number
+people_living_with_hiv_males_adults_15_estimate,People living with HIV Males Adults (15+) estimate,measure,Number
+people_living_with_hiv_males_adults_15_lower_estimate,People living with HIV Males Adults (15+) lower estimate,measure,Number
+people_living_with_hiv_males_adults_15_upper_estimate,People living with HIV Males Adults (15+) upper estimate,measure,Number
+expenditure_on_collaborative_tb_hiv_activities_total,Expenditure on collaborative TB/HIV activities Total,measure,US$
+aids_spending_by_programme_area_care_treatment_antiretroviral_therapy_art,AIDS spending by programme area Care & Treatment - Antiretroviral therapy (ART),measure,US$
+aids_spending_by_programme_area_prevention_mother_to_child_transmission_pmtct,AIDS spending by programme area Prevention - Mother-to-child transmission (PMTCT),measure,US$
+hiv_in_new_tb_cases_estimate,HIV in new TB cases estimate,measure,Percent
+people_living_with_hiv_screened_for_tb_total,People living with HIV screened for TB Total,measure,Number
+hiv_testing_among_tb_patients_total,HIV testing among TB patients Total,measure,Number
+tb_patients_living_with_hiv_receiving_art_total,TB patients living with HIV receiving ART Total,measure,Number
+total_tb_expenditure_total,Total TB expenditure Total,measure,US$
+tb_patients_living_with_hiv_receiving_cpt_total,TB patients living with HIV receiving CPT Total,measure,Number
+hiv_in_new_tb_cases_lower_estimate,HIV in new TB cases lower estimate,measure,Percent
+hiv_in_new_tb_cases_upper_estimate,HIV in new TB cases upper estimate,measure,Percent
+tb_patients_tested_positive_for_hiv_total,TB patients tested positive for HIV Total,measure,Number
+tb_related_deaths_among_people_living_with_hiv_estimate,TB-related deaths among people living with HIV estimate,measure,Number
+deaths_averted_due_to_art_estimate,Deaths averted due to ART estimate,measure,Number
+total_new_and_relapse_tb_cases_total,Total new and relapse TB cases Total,measure,Number
+deaths_averted_due_to_art_lower_estimate,Deaths averted due to ART lower estimate,measure,Number
+deaths_averted_due_to_art_upper_estimate,Deaths averted due to ART upper estimate,measure,Number
+tb_related_deaths_among_people_living_with_hiv_lower_estimate,TB-related deaths among people living with HIV lower estimate,measure,Number
+tb_related_deaths_among_people_living_with_hiv_upper_estimate,TB-related deaths among people living with HIV upper estimate,measure,Number
+people_receiving_antiretroviral_therapy_children_0_14,People receiving antiretroviral therapy Children (0-14),measure,Number
+people_receiving_antiretroviral_therapy_adults_15,People receiving antiretroviral therapy Adults (15+),measure,Number
+people_receiving_antiretroviral_therapy_females,People receiving antiretroviral therapy Females,measure,Number
+people_receiving_antiretroviral_therapy_males,People receiving antiretroviral therapy Males,measure,Number
+people_receiving_antiretroviral_therapy_total,People receiving antiretroviral therapy Total,measure,Number
+coverage_of_people_receiving_art_children_0_14_estimate,Coverage of people receiving ART Children (0-14) estimate,measure,Percent
+coverage_of_people_receiving_art_children_0_14_lower_estimate,Coverage of people receiving ART Children (0-14) lower estimate,measure,Percent
+coverage_of_people_receiving_art_children_0_14_upper_estimate,Coverage of people receiving ART Children (0-14) upper estimate,measure,Percent
+coverage_of_people_receiving_art_total_estimate,Coverage of people receiving ART Total estimate,measure,Percent
+coverage_of_people_receiving_art_total_lower_estimate,Coverage of people receiving ART Total lower estimate,measure,Percent
+coverage_of_people_receiving_art_total_upper_estimate,Coverage of people receiving ART Total upper estimate,measure,Percent
+coverage_of_people_receiving_art_females_adults_15_estimate,Coverage of people receiving ART Females Adults (15+) estimate,measure,Percent
+coverage_of_people_receiving_art_females_adults_15_lower_estimate,Coverage of people receiving ART Females Adults (15+) lower estimate,measure,Percent
+coverage_of_people_receiving_art_females_adults_15_upper_estimate,Coverage of people receiving ART Females Adults (15+) upper estimate,measure,Percent
+coverage_of_people_receiving_art_males_adults_15_estimate,Coverage of people receiving ART Males Adults (15+) estimate,measure,Percent
+coverage_of_people_receiving_art_males_adults_15_lower_estimate,Coverage of people receiving ART Males Adults (15+) lower estimate,measure,Percent
+coverage_of_people_receiving_art_males_adults_15_upper_estimate,Coverage of people receiving ART Males Adults (15+) upper estimate,measure,Percent
+coverage_of_people_receiving_art_all_sexes_adults_15_estimate,Coverage of people receiving ART All sexes Adults (15+) estimate,measure,Percent
+coverage_of_people_receiving_art_all_sexes_adults_15_lower_estimate,Coverage of people receiving ART All sexes Adults (15+) lower estimate,measure,Percent
+coverage_of_people_receiving_art_all_sexes_adults_15_upper_estimate,Coverage of people receiving ART All sexes Adults (15+) upper estimate,measure,Percent
+hiv_prevalence_females_young_people_15_24_estimate_modelled,HIV Prevalence Females Young people (15-24) estimate modelled,measure,Percent
+hiv_prevalence_females_young_people_15_24_lower_estimate_modelled,HIV Prevalence Females Young people (15-24) lower estimate modelled,measure,Percent
+hiv_prevalence_females_young_people_15_24_upper_estimate_modelled,HIV Prevalence Females Young people (15-24) upper estimate modelled,measure,Percent
+hiv_prevalence_males_young_people_15_24_estimate_modelled,HIV Prevalence Males Young people (15-24) estimate modelled,measure,Percent
+hiv_prevalence_males_young_people_15_24_lower_estimate_modelled,HIV Prevalence Males Young people (15-24) lower estimate modelled,measure,Percent
+hiv_prevalence_males_young_people_15_24_upper_estimate_modelled,HIV Prevalence Males Young people (15-24) upper estimate modelled,measure,Percent
+incident_tb_cases_in_people_living_with_hiv_estimate,Incident TB cases in people living with HIV estimate,measure,Number
+incident_tb_cases_in_people_living_with_hiv_lower_estimate,Incident TB cases in people living with HIV lower estimate,measure,Number
+incident_tb_cases_in_people_living_with_hiv_upper_estimate,Incident TB cases in people living with HIV upper estimate,measure,Number
+infants_born_to_hiv_women_receiving_a_virological_test_for_hiv_within_2_months_of_birth_estimate,Infants born to HIV+ women receiving a virological test for HIV within 2 months of birth estimate,measure,Percent
+infants_born_to_hiv_women_receiving_a_virological_test_for_hiv_within_2_months_of_birth_lower_estimate,Infants born to HIV+ women receiving a virological test for HIV within 2 months of birth lower estimate,measure,Percent
+infants_born_to_hiv_women_receiving_a_virological_test_for_hiv_within_2_months_of_birth_upper_estimate,Infants born to HIV+ women receiving a virological test for HIV within 2 months of birth upper estimate,measure,Percent
+twelve_month_retention_on_antiretroviral_therapy_total,Twelve month retention on antiretroviral therapy Total,measure,Percent
+twelve_month_retention_on_antiretroviral_therapy_adults_15,Twelve month retention on antiretroviral therapy Adults (15+),measure,Percent
+twelve_month_retention_on_antiretroviral_therapy_children_0_14,Twelve month retention on antiretroviral therapy Children (0-14),measure,Percent
+hiv_prevalence_females_adults_15_49_estimate,HIV Prevalence Females Adults (15-49) estimate,measure,Percent
+hiv_prevalence_females_adults_15_49_lower_estimate,HIV Prevalence Females Adults (15-49) lower estimate,measure,Percent
+hiv_prevalence_females_adults_15_49_upper_estimate,HIV Prevalence Females Adults (15-49) upper estimate,measure,Percent
+hiv_prevalence_males_adults_15_49_estimate,HIV Prevalence Males Adults (15-49) estimate,measure,Percent
+hiv_prevalence_males_adults_15_49_lower_estimate,HIV Prevalence Males Adults (15-49) lower estimate,measure,Percent
+hiv_prevalence_males_adults_15_49_upper_estimate,HIV Prevalence Males Adults (15-49) upper estimate,measure,Percent
+prevalence_of_recent_intimate_partner_violence_females_adults_15_49,Prevalence of recent intimate partner violence Females Adults (15-49),measure,Percent
+prevalence_of_recent_intimate_partner_violence_females_15_19,Prevalence of recent intimate partner violence Females 15-19,measure,Percent
+prevalence_of_recent_intimate_partner_violence_females_20_24,Prevalence of recent intimate partner violence Females 20-24,measure,Percent
+prevalence_of_recent_intimate_partner_violence_females_25_49,Prevalence of recent intimate partner violence Females 25-49,measure,Percent
+aids_spending_by_funding_source_pepfar,AIDS spending by funding source PEPFAR,measure,US$
+aids_spending_by_funding_source_other_bilaterals,AIDS spending by funding source Other bilaterals,measure,US$
+aids_spending_by_funding_source_multilaterals,AIDS spending by funding source Multilaterals,measure,US$
+aids_spending_by_funding_source_domestic_public,AIDS spending by funding source Domestic Public,measure,US$
+aids_spending_by_funding_source_international,AIDS spending by funding source International,measure,US$
+aids_spending_by_funding_source_domestic_public_international,AIDS spending by funding source Domestic Public & International,measure,US$
+aids_spending_by_funding_source_domestic_private,AIDS spending by funding source Domestic Private,measure,US$
+aids_spending_by_funding_source_bilaterals,AIDS spending by funding source Bilaterals,measure,US$
+aids_spending_by_funding_source_global_fund,AIDS spending by funding source Global Fund,measure,US$
+aids_spending_by_funding_source_development_banks,AIDS spending by funding source Development Banks,measure,US$
+aids_spending_by_funding_source_other_multilaterals,AIDS spending by funding source Other multilaterals,measure,US$
+aids_spending_by_funding_source_other_international,AIDS spending by funding source Other international,measure,US$

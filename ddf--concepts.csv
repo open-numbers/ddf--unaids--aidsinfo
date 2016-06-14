@@ -2,7 +2,7 @@ concept,name,concept_type,unit
 name,Name,string,
 year,Year,time,year
 area,Area,entity_domain,
-Unit,unit,string,
+unit,Unit,string,
 laws_that_impose_compulsory_detention_for_people_who_use_drugs_reported,Laws that impose compulsory detention for people who use drugs Reported,measure,Yes/No
 laws_that_specifically_criminalise_hiv_non_disclosure_exposure_or_transmission_reported,"Laws that specifically criminalise HIV non-disclosure, exposure or transmission Reported",measure,Yes/No
 external_economic_support_to_the_poorest_households_total,External economic support to the poorest households Total,measure,Percent

@@ -92,7 +92,3 @@ if __name__ == '__main__':
     create_index_file(out_dir)
 
     print('Done.')
-
-
-
-

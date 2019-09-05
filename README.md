@@ -4,5 +4,4 @@ source: http://www.aidsinfoonline.org/
 
 ## Error in source file
 
-- line 272 and line 274079: redundant quote(") in these lines, remove them to get
-correct data.
+Source file is not standard CSV that the double quote (") was not escaped. So there are a few bad lines. We dropped these lines in the etl script.

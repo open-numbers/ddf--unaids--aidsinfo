@@ -1,906 +1,240 @@
 area,name
-nga001,Abia
-civ001,Abidjan
-omn003,Ad Dakhliyah
-cmr001,Adamaoua
-nga002,Adamawa
-eth014,Addis Ababa
-omn006,Adh Dhahirah
-eth002,Afar
-afg,Afghanistan
-ner001,Agadez
-kaz001,Akmola
-kaz002,Aktobe
-nga003,Akwa Ibom
-omn004,Al Batinah
-omn008,Al Wusta
-alb,Albania
-dza,Algeria
-dji001,Ali Sabieh
-ben_01,Alibori
-03m49wld,All countries
-kaz003,Almaty
-kaz015,Almaty
-pry010,Alto Parana
-pry013,Amambay
-per001,Amazonas
-asm,American Samoa
-eth003,Amhara
-tha002075,Amnat Charoen
-vnm008005,An Giang Province
-nga004,Anambra
-per002,Ancash
-and,Andorra
-tha003001,Ang Thong
-ago,Angola
-aia,Anguilla
-lca001,Anse La Raye
-mdg001,Antananarivo
-atg,Antigua and Barbuda
-mdg007,Antsiranana
-per003,Apurimac
-arm001,Aragatsotn
-arm002,Ararat
-per004,Arequipa
-arg,Argentina
-arm003,Armavir
-arm,Armenia
-hti005,Artibonite
-abw,Aruba
-omn005,Ash Sharqiyat
-gha006,Ashanti
-kaz016,Astana City
-pry018,Asuncion
-ben_02,Atacora
-nic091,Atlantico Norte
-nic093,Atlantico Sur
-hnd001,Atlantida
-ben_03,Atlantique
-kaz004,Atyrau
-aus,Australia
-aut,Austria
-ukr004,Autonomous Republic of Crimea
-per005,Ayacucho
-mmr017,Ayeyarwady
-aze,Azerbaijan
-vnm007017,Ba Ria - Vung Tau Pro
-vnm002021,Bac Giang Province
-mmr111,Bago
-bhs,Bahamas
-bhr,Bahrain
-mli009,Bamako
-cod030,Bandundu
-tha0bk016,Bangkok
-bgd,Bangladesh
-khm001,Banteay Meanchey
-brb,Barbados
-ken007001,Baringo
-cod020,Bas Congo
-caf007,Bas-Oubangui
-kgz005,Batken
-khm002,Battambang
-nga005,Bauchi
-nga006,Bayelsa
-blr,Belarus
-bel,Belgium
-blz,Belize
-eth006,Beneshangul Gumuz
-ben,Benin
-nga007,Benue
-lso001,Berea
-bmu,Bermuda
-btn,Bhutan
-vnm005007,Binh Dinh Province
-vnm007011,Binh Duong Province
-vnm007015,Binh Thuan Province
-kgz001,Bishkek
-sdn008,Blue Nile
-sle003001,Bo
-nic050,Boaco
-pan001,Bocas del Toro
-lao005,Bokeo
-gin003002,Boké
-bol,Bolivia (Plurinational State of)
-sle002001,Bombali
-ken007002,Bomet
-sle003002,Bonthe
-ben_04,Borgou
-nga008,Borno
-bih,Bosnia and Herzegovina
-bwa,Botswana
-cog001,Bouenza
-bra,Brazil
-vgb,British Virgin Islands
-gha007,Brong-Ahafo
-brn,Brunei Darussalam
-zwe010,Bulawayo
-bgr,Bulgaria
-ken008001,Bungoma
-tha002002,Buri Ram
-bfa,Burkina Faso
-bdi,Burundi
-ken008002,Busia
-lso002,Butha Buthe
-vnm008023,Ca Mau Province
-pry005,Caaguazu
-pry006,Caazapa
-moz002,Cabo Delgado
-per006,Cajamarca
-per007,Callao
-khm,Cambodia
-cmr,Cameroon
-vnm008015,Can Tho City
-can,Canada
-pry014,Canindeyu
-cpv,Cape Verde
-nic075,Carazo
-lca003,Castries
-cym,Cayman Islands
-zmb010,Central
-fji001,Central
-ken002,Central
-gha002,Central
-pry011,Central
-caf,Central African Republic
-sdn006,Central Darfur
-ssd092,Central Equatoria
-lka002,Central Province
-npl002,Central Region
-bfa007,Centre
-cmr002,Centre
-bfa003,Centre-Est
-bfa005,Centre-Ouest
-tha003004,Chachoengsao
-tcd,Chad
-tha003009,Chai Nat
-tha002007,Chaiyaphum
-lao016,Champasak
-830,Channel Islands
-tha003006,Chanthaburi
-ukr001,Cherkasy
-ukr002,Chernihiv
-ukr003,Chernivtsy
-tha001008,Chiang Mai
-tha001010,Chiang Rai
-chl,Chile
-mmr004,Chin
-chn,China
-hkg,"China, Hong Kong Special Administrative Region"
-mac,"China, Macao Special Administrative Region"
-nic030,Chinandega
-pan002,Chiriqui
-hnd006,Choluteca
-tha003003,Chon Buri
-nic065,Chontales
-tha004005,Chumphon
-kgz004,Chuy
-moz011,Cidade de Maputo
-ken003,Coast
-bol003,Cochabmaba
-ben_05,Collines
-col,Colombia
-pan004,Colon
-hnd002,Colon
-hnd003,Comayagua
-com,Comoros
-gin001001,Conakry
-pry001,Concepcion
-cog,Congo
-cok,Cook Islands
-hnd004,Copan
-zmb020,Copperbelt
-pry003,Cordillera
-hnd005,Cortes
-cri,Costa Rica
-ben_06,Couffo
-hrv,Croatia
-nga009,Cross River
-cub,Cuba
-per008,Cusco
-cog002,Cuvette
-cog003,Cuvette Ouest
-cyp,Cyprus
-cze,Czech Republic
-civ,Côte d'Ivoire
-vnm005001,Da Nang Province
-vnm006005,Dak Lak Province
-sen001,Dakar
-tza007,Dar es Salaam
-mng019,Darkhan-Uul
-nga010,Delta
-prk,Democratic People's Republic of Korea
-cod,Democratic Republic of the Congo
-dnk,Denmark
-lca005,Dennery
-omn002,Dhofar
-vnm003002,Dien Bien Province
-ner002,Diffa
-sen002,Diourbel
-eth015,Dire Dawa
-tjk001,Direct Rule Districts
-dji,Djibouti
-dji004,Djibouti-Ville
-ukr005,Dnipropetrovsk
-tza001,Dodoma
-dma,Dominica
-dom,Dominican Republic
-ukr006,Donetsk
-vnm007013,Dong Nai Province
-vnm008003,Dong Thap Province
-ben_07,Donga
-mng007,Dornod
-ner003,Dosso
-tjk005,Dushanbe City
-sdn005,East Darfur
-kaz005,East Kazakhstan
-ken004,Eastern
-sle001,Eastern
-gha005,Eastern
-zmb030,Eastern
-ssd093,Eastern Equatoria
-lka005,Eastern Province
-npl001,Eastern Region
-nga011,Ebonyi
-ecu,Ecuador
-nga012,Edo
-egy,Egypt
-nga013,Ekiti
-sdn015,El Gazira
-slv,El Salvador
-ken004001,Embu
-nga014,Enugu
-cod040,Equateur
-gnq,Equatorial Guinea
-eri,Eritrea
-bfa008,Est
-cmr003,Est
-nic025,Esteli
-est,Estonia
-eth,Ethiopia
-cmr004,Extreme Nord
-hnd008,F Morazan
-nga037,"FCT, Abuja"
-fro,Faeroe Islands
-npl005,Far-Western Region
-gin005003,Faranah
-sen003,Fatick
-mdg002,Fianarantsoa
-fji,Fiji
-fin,Finland
-fra,France
-pyf,French Polynesia
-tjk002,GBAO
-gab,Gabon
-eth012,Gambella
-gmb,Gambia
-mli001,Gao
-ken005001,Garissa
-moz009,Gaza
-sdn012,Gedaref
-arm005,Gegharkunik
-geo,Georgia
-deu,Germany
-gha,Ghana
-vnm006003,Gia Lai Province
-nga015,Gombe
-hnd009,Gracias A Dios
-nic070,Granada
-gha003,Greater Accra
-grc,Greece
-grl,Greenland
-grd,Grenada
-lca006,Gros Islet
-pry004,Guaira
-gum,Guam
-gtm,Guatemala
-gin,Guinea
-gnb,Guinea-Bissau
-guy,Guyana
-vnm001001,Ha Noi City
-vnm004005,Ha Tinh Province
-vnm001007,Hai Duong Province
-vnm001003,Hai Phong City
-hti,Haiti
-zwe009,Harare
-eth013,Harari
-bfa009,Haut-Bassins
-vnm007001,Ho Chi Minh City
-vnm003005,Hoa Binh Province
-ken006002,Homa Bay
-hnd,Honduras
-per009,Huancavelica
-per010,Huanuco
-hun,Hungary
-per011,Ica
-isl,Iceland
-nga016,Imo
-ind,India
-idn,Indonesia
-moz008,Inhambane
-hnd010,Intibuca
-irn,Iran (Islamic Republic of)
-irq,Iraq
-irl,Ireland
-tza011,Iringa
-ken004002,Isiolo
-hnd011,Islas De Bahia
-imn,Isle of Man
-isr,Israel
-ita,Italy
-pry007,Itapua
-ukr007,Ivano-Frankivsk
-kgz006,Jalal-Abad
-jam,Jamaica
-jpn,Japan
-nga017,Jigawa
-nic010,Jinotega
-mys001,Johor
-ssd072,Jonglei
-jor,Jordan
-per012,Junin
-mmr001,Kachin
-nga018,Kaduna
-sle001001,Kailahun
-ken007004,Kajiado
-ken008004,Kakamega
-tha002012,Kalasin
-sle002002,Kambia
-tha001014,Kamphaeng Phet
-khm003,Kampong Cham
-khm004,Kampong Chhnang
-khm005,Kampong Speu
-khm006,Kampong Thom
-khm007,Kampot
-tha003013,Kanchanaburi
-khm008,Kandal
-gin005004,Kankan
-nga019,Kano
-sen004,Kaolack
-kaz006,Karagandy
-cod090,Kasai Occidental
-cod080,Kasai Oriental
-sdn011,Kassala
-cod070,Katanga
-nga020,Katsina
-mmr002,Kayah
-mli002,Kayes
-mmr003,Kayin
-kaz,Kazakhstan
-nga021,Kebbi
-mys002,Kedah
-ken007008,Keiyo-Marakwet
-mys004,Kelantan
-sle001002,Kenema
-ken,Kenya
-ken007005,Kericho
-vnm005011,Khanh Hoa Province
-ukr008,Kharkiv
-sdn001,Khartoum
-tjk003,Khatlon
-ukr009,Kherson
-ukr010,Khmel'nytskyi
-tha002011,Khon Kaen
-mng017,Khuvsgul
-ken002001,Kiambu
-mli003,Kidal
-vnm008013,Kien Giang Province
-ken003001,Kilifi
-gin003007,Kindia
-cod010,Kinshasa
-kir,Kiribati
-ken002002,Kirinyaga
-ukr012,Kirovohrad
-ken006003,Kisii
-ken006004,Kisumu
-ken004003,Kitui
-nga022,Kogi
-khm009,Koh Kong
-sle002003,Koinadugu
-sen005,Kolda
-sle001003,Kono
-kaz007,Kostanai
-arm008,Kotaik
-cog004,Kouilou
-mli004,Koulikoro
-tha004015,Krabi
-khm010,Kratie
-khm023,Krong Kep
-khm024,Krong Pailin
-khm018,Krong Preah Sihanou
-kwt,Kuwait
-ken003002,Kwale
-nga023,Kwara
-ukr011,Kyiv
-ukr026,Kyiv City
-kgz,Kyrgyzstan
-kaz008,Kyzyl-Orda
-ukr013,L'viv
-per013,La Libertad
-bol002,La Paz
-hnd012,La Paz
-gin004005,Labé
-nga024,Lagos
-vnm003001,Lai Chau Province
-ken007007,Laikipia
-ssd084,Lakes
-vnm006007,Lam Dong Province
-per014,Lambayeque
-tha001018,Lampang
-tha001019,Lamphun
-ken003003,Lamu
-vnm002009,Lang Son Province
-vnm002005,Lao Cai Province
-lao,Lao People's Democratic Republic
-lva,Latvia
-lbn,Lebanon
-cog005,Lekoumou
-hnd013,Lempira
-nic035,Leon
-lso003,Leribe
-lso,Lesotho
-lbr,Liberia
-lby,Libya
-lie,Liechtenstein
-cog006,Likouala
-per015,Lima
-ltu,Lithuania
-cmr005,Littoral
-ben_08,Littoral
-tha002020,Loei
-vnm008001,Long An Province
-tha003017,Lop BuriI
-per016,Loreto
-arm009,Lori
-sen006,Louga
-lao003,Luangnamtha
-lao006,Luangprabang
-zmb040,Luapula
-ukr014,Luhansk
-zmb050,Lusaka
-ukr022,Lutsk
-lux,Luxembourg
-ken004005,Machakos
-mdg,Madagascar
-per017,Madre De Dios
-nic020,Madriz
-tha001021,Mae Hong Son
-lso004,Mafeteng
-mmr009,Magway
-tha002022,Maha Sarakham
-mdg004,Mahajanga
-ken004004,Makueni
-mwi,Malawi
-mys,Malaysia
-mdv,Maldives
-mli,Mali
-mlt,Malta
-gin004008,Mamou
-nic055,Managua
-mmr010,Mandalay
-ken005002,Mandera
-kaz009,Mangystau
-moz006,Manica
-zwe001,Manicaland
-cod062,Maniema
-moz010,Maputo
-tza020,Mara
-ner004,Maradi
-ken004006,Marsabit
-mhl,Marshall Islands
-mtq,Martinique
-nic060,Masaya
-lso005,Maseru
-zwe002,Mashonaland Central
-zwe003,Mashonaland East
-zwe004,Mashonaland West
-zwe008,Masvingo
-zwe005,Matabeleland North
-zwe006,Matabeleland South
-nic040,Matagalpa
-sen007,Matam
-mrt,Mauritania
-mus,Mauritius
-tza012,Mbeya
-mys005,Melaka
-ken004008,Meru
-mex,Mexico
-lca008,Micoud
-fsm,Micronesia (Federated States of)
-npl004,Mid-Western Region
-zwe007,Midlands
-ken006006,Migori
-lso006,Mohale's Hoek
-lso007,Mokhotlong
-ken003004,Mombasa
-mmr011,Mon
-mco,Monaco
-mng,Mongolia
-ben_09,Mono
-mne,Montenegro
-msr,Montserrat
-mli005,Mopti
-per018,Moquegua
-mar,Morocco
-sle003004,Moyamba
-moz,Mozambique
-zmb100,Muchinga
-tha002074,Mukdahan
-ken002003,Murang'a
-omn007,Musandam
-omn001,Muscat
-tza019,Mwanza
-mmr,Myanmar
-ukr015,Mykolayiv
-gin002006,N Zérékoré
-ken001001,Nairobi
-ken001,Nairobi
-tha003030,Nakhon Nayok
-tha003031,Nakhon Pathom
-tha002032,Nakhon Phanom
-tha002025,Nakhon Ratchasima
-tha001028,Nakhon Sawan
-tha004027,Nakhon Si Thammarat
-ken007009,Nakuru
-vnm001013,Nam Dinh Province
-nam,Namibia
-moz003,Nampula
-tha001023,Nan
-ken007010,Nandi
-tha004029,Narathiwat
-ken007011,Narok
-kgz002,Naryn
-nga025,Nassarawa
-nru,Nauru
-mmr018,Naypyitaw
-npl,Nepal
-nld,Netherlands
-ncl,New Caledonia
-nzl,New Zealand
-vnm004003,Nghe An Province
-ner008,Niamey
-cog007,Niari
-moz001,Niassa
-nic,Nicaragua
-ner,Niger
-nga026,Niger
-nga,Nigeria
-niu,Niue
-tha002073,Nong Bua Lam Phu
-tha002024,Nong Khai
-tha003026,Nonthaburi
-cmr006,Nord
-hti003,Nord
-bfa010,Nord
-cod061,Nord Kivu
-hti004,Nord-Est
-cmr007,Nord-Ouest
-nfk,Norfolk Island
-sdn002,North Darfur
-ken005,North Eastern
-kaz010,North Kazakhstan
-sdn013,North Kordofan
-lka007,North-Central Province
-zmb070,North-Western
-lka006,North-Western Province
-zmb060,Northern
-sdn017,Northern
-sle002,Northern
-gha008,Northern
-fji004,Northern
-ssd082,Northern Bahr el Ghazal
-mnp,Northern Mariana Islands
-lka004,Northern Province
-nor,Norway
-nic005,Nueva Segovia
-ken006007,Nyamira
-ken002004,Nyandarua
-ken006,Nyanza
-ken002005,Nyeri
-dji005,Obock
-pse,Occupied Palestinian Territory
-hnd014,Ocotepeque
-ukr016,Odesa
-nga027,Ogun
-hnd015,Olancho
-omn,Oman
-nga028,Ondo
-cod050,Orientale
-mng021,Orkhon
-eth004,Oromiya
-kgz007,Osh
-nga029,Osun
-ben_10,Oueme
-hti001,Ouest
-cmr008,Ouest
-nga030,Oyo
-mys008,Pahang
-pak,Pakistan
-plw,Palau
-pan012,Panama
-pan,Panama
-pan011,Panama Oeste
-png,Papua New Guinea
-pry009,Paraguari
-pry,Paraguay
-hnd007,Paraiso
-sur007,Paramaribo
-per019,Pasco
-tha003045,Pathum Thani
-tha004046,Pattani
-kaz011,Pavlodar
-mys007,Perak
-per,Peru
-tha004040,Phangnga
-tha004039,Phatthalung
-tha001034,Phayao
-tha001037,Phetchabun
-tha003035,Phetchaburi
-tha001036,Phichit
-phl,Philippines
-tha001042,Phitsanulok
-khm012,Phnom Penh
-tha001041,Phrae
-tha003044,Phranakhonsi Ayutthaya
-vnm002017,Phu Tho
-tha004038,Phuket
-per020,Piura
-ben_11,Plateau
-nga031,Plateau
-bfa011,Plateau-Central
-cog008,Plateaux
-mne016,Podgorica
-pol,Poland
-ukr017,Poltava
-cog009,Pool
-sle002004,Port Loko
-prt,Portugal
-tha003033,Prachin Buri
-tha003043,Prachuap Khiri Khan
-khm013,Preah Vihear
-pry015,Presidente Hayes
-khm014,Prey Veng
-pri,Puerto Rico
-sle003003,Pujehun
-mys009,Pulau Pinang
-per021,Puno
-khm015,Pursat
-lso008,Qacha's Nek
-qat,Qatar
-vnm002025,Quang Ninh Province
-vnm004009,Quang Tri Province
-lso009,Quthing
-mmr012,Rakhine
-tha004048,Ranong
-tha003049,Ratchaburi
-tha003050,Rayong
-sdn010,Red Sea
-tgo004,Region De La Kara
-tgo002,Region Des Plateaux
-tgo005,Region Des Savanes
-tgo003,Region Du Centre
-tgo001,Region Maritime
-kor,Republic of Korea
-mda,Republic of Moldova
-ken007,Rift Valley
-nic085,Rio San Juan
-nic080,Rivas
-sdn016,River Nile
-nga032,Rivers
-ukr018,Rivne
-tha002047,Roi Et
-rou,Romania
-rus,Russian Federation
-rwa,Rwanda
-reu,Réunion
-eth007,SNNPR
-tha003076,Sa Kaeo
-mys011,Sabah
-lka009,Sabaragamuwa
-mmr005,Sagaing
-kna,Saint Kitts and Nevis
-sen008,Saint Louis
-lca,Saint Lucia
-vct,Saint Vincent and the Grenadines
-tha002056,Sakon Nakhon
-ken007012,Samburu
-wsm,Samoa
-tha003057,Samut Prakan
-tha003059,Samut Sakhon
-tha003061,Samut Songkhram
-smr,San Marino
-per022,San Martin
-pry002,San Pedro
-cog010,Sangha
-hnd016,Santa Barbara
-bol007,Santa Cruz
-stp,Sao Tome and Principe
-tha003058,Saraburi
-mys013,Sarawak
-tha004051,Satun
-sau,Saudi Arabia
-lao013,Savannakhet
-mli006,Segou
-mys012,Selangor
-sen,Senegal
-sdn014,Sennar
-srb,Serbia
-ukr027,Sevastopol
-syc,Seychelles
-mmr222,Shan
-tza017,Shinyanga
-arm013,Shirak
-tha002060,Si Sa Ket
-ken006009,Siaya
-khm017,Siem Reap
-sle,Sierra Leone
-mli007,Sikasso
-tha003053,Sing Buri
-sgp,Singapore
-svk,Slovakia
-svn,Slovenia
-vnm008019,Soc Trang Province
-moz007,Sofala
-nga033,Sokoto
-slb,Solomon Islands
-eth005,Somali
-som,Somalia
-vnm003003,Son La Province
-tha004055,Songkhla
-lca009,Soufriere
-zaf,South Africa
-sdn003,South Darfur
-kaz012,South Kazakhstan
-sdn007,South Kordofan
-ssd,South Sudan
-zmb080,Southern
-sle003,Southern
-lka003,Southern Province
-esp,Spain
-lka,Sri Lanka
-khm019,Stoeung Treng
-cmr009,Sud
-hti007,Sud
-cod063,Sud Kivu
-cmr010,Sud-Ouest
-sdn,Sudan
-tjk004,Sughd
-tha001054,Sukhothai
-ukr019,Sumy
-tha003052,Suphan Buri
-tha004062,Surat Thani
-tha002063,Surin
-sur,Suriname
-khm020,Svay Rieng
-swz,Swaziland
-swe,Sweden
-che,Switzerland
-syr,Syrian Arab Republic
-arm015,Syunik
-tza014,Tabora
-per023,Tacna
-dji006,Tadjourah
-ner005,Tahoua
-ken003005,Taita Taveta
-tjk,Tajikistan
-tha001064,Tak
-khm021,Takeo
-kgz008,Talas
-sen009,Tambacounda
-ken003006,Tana River
-mmr006,Tanintharyi
-nga034,Taraba
-arm016,Tavush
-geo011,Tbilisi
-mys014,Terengganu
-ukr020,Ternopil
-moz005,Tete
-lso010,Thaba Tseka
-vnm001015,Thai Binh Province
-vnm002015,Thai Nguyen Province
-tha,Thailand
-vnm004001,Thanh Hoa Province
-ken004012,Tharaka
-geo015,The Adjara Autonomous Republic
-mkd,The former Yugoslav Republic of Macedonia
-sen010,Thies
-vnm004011,Thua Thien - Hue Prov
-eth001,Tigray
-ner006,Tillaberi
-tls,Timor-Leste
-mdg003,Toamasina
-tgo,Togo
-tkl,Tokelau
-mdg005,Toliara
-mli008,Tombouctou
-ton,Tonga
-sle002005,Tonkolili
-tha004066,Trang
-ken007014,Trans Nzoia
-tha003065,Trat
-tto,Trinidad and Tobago
-per024,Tumbes
-tun,Tunisia
-ken007015,Turkana
-tur,Turkey
-tkm,Turkmenistan
-tca,Turks and Caicos Islands
-tuv,Tuvalu
-unaap,UNAIDS Region - Asia and the Pacific
-unacar,UNAIDS Region - Caribbean
-unaesa,UNAIDS Region - East and Southern Africa
-unaeeca,UNAIDS Region - Eastern Europe and Central Asia
-unala,UNAIDS Region - Latin America
-unamena,UNAIDS Region - Middle East and North Africa
-unassa,UNAIDS Region - Sub-Saharan Africa
-unawca,UNAIDS Region - West and Central Africa
-unawcena,UNAIDS Region - Western & Central Europe and North America
-ken007016,Uasin Gishu
-tha002067,Ubon Ratchathani
-per025,Ucayali
-tha002068,Udon Thani
-uga,Uganda
-ukr,Ukraine
-mng020,Ulaanbaatar
-are,United Arab Emirates
-gbr,United Kingdom of Great Britain and Northern Ireland
-tza,United Republic of Tanzania
-vir,United States Virgin Islands
-usa,United States of America
-ssd073,Unity
-gha009,Upper East
-ssd071,Upper Nile
-gha010,Upper West
-ury,Uruguay
-tha001069,Uthai Thani
-tha001070,Uttaradit
-lka008,Uva Province
-uzb,Uzbekistan
-ukr023,Uzhhorod
-hnd017,Valle
-vut,Vanuatu
-arm017,Vayots Dzor
-ven,Venezuela (Bolivarian Republic of)
-lao001,Vientiane Capital
-vnm,Viet Nam
-lca010,Vieux-fort
-ken008007,Vihiga
-vnm008009,Vinh Long Province
-ukr021,Vinnytsia
-gha004,Volta
-mys003,W.P. Kuala Lumpur
-ken005003,Wajir
-wlf,Wallis and Futuna Islands
-ssd081,Warrap
-sdn004,West Darfur
-kaz013,West Kazakhstan
-sdn018,West Kordofan
-ken007017,West Pokot
-zmb090,Western
-fji003,Western
-ken008,Western
-gha001,Western
-sle004,Western Area
-sle004001,Western Area
-ssd083,Western Bahr el Ghazal
-ssd091,Western Equatoria
-lka001,Western Province
-npl003,Western Region
-sdn009,White Nile
-tha004071,Yala
-mmr013,Yangon
-tha002072,Yasothon
-yem,Yemen
-arm018,Yerevan
-nga035,Yobe
-hnd018,Yoro
-kgz003,Ysyk-Kol
-moz004,Zambezia
-zmb,Zambia
-nga036,Zamfara
-ukr024,Zaporizhzhia
-kaz014,Zhambyl
-ukr025,Zhytomyr
-sen011,Ziguinchor
-zwe,Zimbabwe
-ner007,Zinder
-ben_12,Zou
+76,Afghanistan
+123,Albania
+10,Algeria
+1,All countries
+152,American Samoa
+88,Andorra
+42,Angola
+178,Anguilla
+195,Antigua and Barbuda
+157,Argentina
+60,Armenia
+162,Aruba
+155,Australia
+115,Austria
+61,Azerbaijan
+173,Bahamas
+73,Bahrain
+86,Bangladesh
+196,Barbados
+113,Belarus
+118,Belgium
+166,Belize
+26,Benin
+133,Bermuda
+81,Bhutan
+185,Bolivia (Plurinational State of)
+119,Bosnia and Herzegovina
+24,Botswana
+160,Brazil
+190,British Virgin Islands
+72,Brunei Darussalam
+130,Bulgaria
+22,Burkina Faso
+43,Burundi
+28,Cabo Verde
+54,Cambodia
+9,Cameroon
+132,Canada
+194,Cayman Islands
+20,Central African Republic
+41,Chad
+116,Channel Islands
+171,Chile
+78,China
+59,"China, Hong Kong Special Administrative Region"
+52,"China, Macao Special Administrative Region"
+186,Colombia
+11,Comoros
+16,Congo
+143,Cook Islands
+183,Costa Rica
+107,Croatia
+174,Cuba
+71,Cyprus
+103,Czech Republic
+36,Côte d'Ivoire
+62,Democratic People's Republic of Korea
+39,Democratic Republic of the Congo
+105,Denmark
+5,Djibouti
+176,Dominica
+182,Dominican Republic
+168,Ecuador
+23,Egypt
+165,El Salvador
+37,Equatorial Guinea
+33,Eritrea
+117,Estonia
+31,Ethiopia
+121,Faeroe Islands
+175,Falkland Islands (Malvinas)
+140,Fiji
+127,Finland
+93,France
+181,French Guiana
+144,French Polynesia
+15,Gabon
+18,Gambia
+82,Georgia
+98,Germany
+4,Ghana
+106,Gibraltar
+126,Greece
+135,Greenland
+187,Grenada
+193,Guadeloupe
+148,Guam
+169,Guatemala
+13,Guinea
+40,Guinea-Bissau
+159,Guyana
+158,Haiti
+100,Holy See
+177,Honduras
+95,Hungary
+124,Iceland
+64,India
+84,Indonesia
+77,Iran (Islamic Republic of)
+79,Iraq
+101,Ireland
+108,Isle of Man
+83,Israel
+87,Italy
+180,Jamaica
+67,Japan
+48,Jordan
+74,Kazakhstan
+3,Kenya
+142,Kiribati
+65,Kuwait
+70,Kyrgyzstan
+85,Lao People's Democratic Republic
+109,Latvia
+68,Lebanon
+8,Lesotho
+21,Liberia
+14,Libya
+112,Liechtenstein
+129,Lithuania
+92,Luxembourg
+34,Madagascar
+25,Malawi
+57,Malaysia
+56,Maldives
+47,Mali
+96,Malta
+138,Marshall Islands
+188,Martinique
+6,Mauritania
+32,Mauritius
+35,Mayotte
+192,Mexico
+154,Micronesia (Federated States of)
+128,Monaco
+80,Mongolia
+90,Montenegro
+163,Montserrat
+2,Morocco
+29,Mozambique
+50,Myanmar
+27,Namibia
+150,Nauru
+63,Nepal
+110,Netherlands
+5015,Netherlands Antilles
+145,New Caledonia
+153,New Zealand
+164,Nicaragua
+45,Niger
+12,Nigeria
+141,Niue
+149,Northern Mariana Islands
+89,Norway
+69,Occupied Palestinian Territory
+53,Oman
+75,Pakistan
+146,Palau
+161,Panama
+147,Papua New Guinea
+170,Paraguay
+189,Peru
+55,Philippines
+111,Poland
+131,Portugal
+156,Puerto Rico
+58,Qatar
+49,Republic of Korea
+122,Republic of Moldova
+94,Romania
+114,Russian Federation
+19,Rwanda
+7,Réunion
+30,Saint Helena
+191,Saint Kitts and Nevis
+184,Saint Lucia
+134,Saint Pierre and Miquelon
+167,Saint Vincent and the Grenadines
+136,Samoa
+91,San Marino
+38,Sao Tome and Principe
+66,Saudi Arabia
+44,Senegal
+125,Serbia
+17,Seychelles
+46,Sierra Leone
+51,Singapore
+102,Slovakia
+99,Slovenia
+139,Solomon Islands
+207,Somalia
+204,South Africa
+242,South Sudan
+227,Spain
+217,Sri Lanka
+205,Sudan
+237,Suriname
+209,Swaziland
+228,Sweden
+226,Switzerland
+216,Syrian Arab Republic
+215,Tajikistan
+221,Thailand
+224,The former Yugoslav Republic of Macedonia
+218,Timor-Leste
+210,Togo
+232,Tokelau
+231,Tonga
+240,Trinidad and Tobago
+202,Tunisia
+213,Turkey
+219,Turkmenistan
+238,Turks and Caicos Islands
+234,Tuvalu
+895,UNAIDS Region - Asia and the Pacific
+274,UNAIDS Region - Caribbean
+901,UNAIDS Region - East and Southern Africa
+276,UNAIDS Region - Eastern Europe and Central Asia
+277,UNAIDS Region - Latin America
+278,UNAIDS Region - Middle East and North Africa
+902,UNAIDS Region - West and Central Africa
+900,UNAIDS Region - Western & Central Europe and North America
+203,Uganda
+223,Ukraine
+214,United Arab Emirates
+229,United Kingdom
+201,United Republic of Tanzania
+230,United States
+236,United States Virgin Islands
+239,Uruguay
+222,Uzbekistan
+233,Vanuatu
+241,Venezuela (Bolivarian Republic of)
+212,Viet Nam
+235,Wallis and Futuna Islands
+211,Western Sahara
+220,Yemen
+208,Zambia
+206,Zimbabwe

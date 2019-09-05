@@ -4,11 +4,10 @@ import pandas as pd
 import numpy as np
 import os
 from ddf_utils.str import to_concept_id
-from ddf_utils.index import create_index_file
 
 
 # configuration of file path
-source = '../source/AIDSinfo_2014_en.csv'
+source = '../source/GAM - Global AIDS Monitoring_2019_en.csv'
 out_dir = '../../'
 
 
@@ -17,7 +16,12 @@ def extract_concepts(data):
     conc = conc.drop_duplicates()
     conc.columns = ['name', 'unit']
     conc['concept_type'] = 'measure'
-    conc['concept'] = conc['name'].map(lambda x: to_concept_id(x, '[/ -\\.\\*";:]+'))
+    conc['concept'] = conc['name'].map(to_concept_id)
+    # need to drop duplicates again because names in `name` column
+    # are not _clean_.
+    # such as there is 'Needles and syringes distributed per person who inject drugs Total'
+    # but also 'Needles and syringes distributed per person who inject drugs" Total'
+    conc = conc.drop_duplicates(subset=['concept', 'unit'])
 
     # manually create discrete concepts
     disc = pd.DataFrame([['Name', np.nan, 'string', 'name'],
@@ -42,11 +46,11 @@ def extract_datapoints(data):
     dps = data[['cname', 'Time Period', 'Area ID', 'Data Value']].copy()
     dps.columns = ['concept', 'year', 'area', 'data']
     dps['area'] = dps['area'].map(to_concept_id)
-    dps['concept'] = dps['concept'].map(lambda x: to_concept_id(x, '[/ -\\.\\*";:]+'))
+    dps['concept'] = dps['concept'].map(to_concept_id)
     dps_gps = dps.groupby(by='concept')
 
     for k, idx in dps_gps.groups.items():
-        df = dps.ix[idx][['year', 'area', 'data']].copy()
+        df = dps.loc[idx][['year', 'area', 'data']].copy()
         df.columns = ['year', 'area', k]
 
         # assert(np.all(df[['year', 'area']].duplicated()) == False)
@@ -57,7 +61,10 @@ def extract_datapoints(data):
 
 if __name__ == '__main__':
     print('reading source files...')
-    data = pd.read_csv(source)
+    import csv
+    data = pd.read_csv(source, quoting=csv.QUOTE_ALL, lineterminator='\n', error_bad_lines=False)
+    data = data.dropna(subset=['Data Value']).dropna(how='all', axis=1)
+    data['Area ID'] = data['Area ID'].map(lambda x: str(int(x)))
 
     # strip spaces in the indicator field.
     data['Indicator'] = data['Indicator'].str.strip()
@@ -87,8 +94,5 @@ if __name__ == '__main__':
     for k, df in extract_datapoints(data):
         path = os.path.join(out_dir, 'ddf--datapoints--{}--by--area--year.csv'.format(k))
         df.to_csv(path, index=False)
-
-    print('creating index file...')
-    create_index_file(out_dir)
 
     print('Done.')

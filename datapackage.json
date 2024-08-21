@@ -1,13 +1,9 @@
 {
-    "name": "ddf--unaids--aidsinfo",
     "language": {
-        "id": "en"
+        "name": "English",
+        "id": "en-US"
     },
-    "title": "ddf--unaids--aidsinfo",
-    "description": "",
-    "author": "",
-    "license": "",
-    "created": "2019-09-04T10:12:46.376104+00:00",
+    "created": "2024-08-21T02:23:42.553Z",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -27,7 +23,26 @@
                         "name": "unit"
                     }
                 ],
-                "primaryKey": "concept"
+                "primaryKey": [
+                    "concept"
+                ]
+            }
+        },
+        {
+            "name": "ddf--entities--area",
+            "path": "ddf--entities--area.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "area"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": [
+                    "area"
+                ]
             }
         },
         {
@@ -6517,21 +6532,6 @@
                     "area",
                     "year"
                 ]
-            }
-        },
-        {
-            "name": "ddf--entities--area",
-            "path": "ddf--entities--area.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "area"
-                    },
-                    {
-                        "name": "name"
-                    }
-                ],
-                "primaryKey": "area"
             }
         }
     ],
